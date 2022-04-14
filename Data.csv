@@ -1,0 +1,903 @@
+Crop_Name,Category_Name,Season_name,Government_name,Region_name,Agriculture Water Usage_m3,Land size,production,Pro./Acre,Water/Acre,Immersion,Sprinkler,Drip,Canal ,Aswan 
+Rice,cereal,Summer,Cairo,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Rice,cereal,Summer,Alexandria,lower Egypt,4552000,860,3121,3.629069767,5293.023256,4552000,NO,NO,6465108.359,6958359.133
+Rice,cereal,Summer,Port said,lower Egypt,117485000,18195,54694,3.005990657,6456.99368,117485000,NO,NO,130052876.2,137692173.6
+Rice,cereal,Summer,Suez,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Rice,cereal,Summer,Damietta,lower Egypt,269677000,47059,162307,3.449010816,5730.61476,269677000,NO,NO,317616435.2,330767961.7
+Rice,cereal,Summer,Dakahlia,lower Egypt,1310861000,228275,832509,3.646956522,5742.464133,1310861000,NO,NO,1543887680,1607815353
+Rice,cereal,Summer,Sharkia,lower Egypt,975672000,187054,632597,3.381895068,5215.991104,975672000,NO,NO,1650520156,1767841455
+Rice,cereal,Summer,Quliubiya,lower Egypt,12475000,1932,5945,3.077122153,6457.039337,12475000,NO,NO,17829792.42,18027951.26
+Rice,cereal,Summer,Kafr el sheikh,lower Egypt,1195849000,190460,760126,3.991000735,6278.740943,1195849000,NO,NO,1537920039,1609581402
+Rice,cereal,Summer,Gharbia,lower Egypt,387853000,60067,222849,3.710007159,6457.006343,387853000,NO,NO,626772726.1,651547477.2
+Rice,cereal,Summer,Monoufia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Rice,cereal,Summer,Behaira,lower Egypt,751795000,116431,419967,3.60700329,6457.000283,751795000,NO,NO,1056180293,1095298081
+Rice,cereal,Summer,Ismailia,lower Egypt,29896000,4710,16048,3.407218684,6347.346072,29896000,NO,NO,37139095.93,43555798.37
+Rice,cereal,Summer,Giza,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Rice,cereal,Summer,Beni sweif,Middle Egupt,1396000,207,768,3.710144928,6743.961353,1396000,NO,NO,1475018.868,1541160.587
+Rice,cereal,Summer,Fayoum,Middle Egupt,3230000,479,1505,3.141962422,6743.215031,3230000,NO,NO,4579484.536,4763505.155
+Rice,cereal,Summer,Minya,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Rice,cereal,Summer,Assuit,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Rice,cereal,Summer,Sohag,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Rice,cereal,Summer,Qena,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Rice,cereal,Summer,Aswan,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Rice,cereal,Summer,Luxor,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Others,Other items,Winter,Cairo,lower Egypt,586000,161,2430,15.0931677,3639.751553,586000,468717.1146,413826.7101,621736.3934,683794.7541
+Others,Other items,Winter,Alexandria,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Others,Other items,Winter,Port said,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Others,Other items,Winter,Suez,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Others,Other items,Winter,Damietta,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Others,Other items,Winter,Dakahlia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Others,Other items,Winter,Sharkia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Others,Other items,Winter,Quliubiya,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Others,Other items,Winter,Kafr el sheikh,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Others,Other items,Winter,Gharbia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Others,Other items,Winter,Monoufia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Others,Other items,Winter,Behaira,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Others,Other items,Winter,Ismailia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Others,Other items,Winter,Giza,Middle Egupt,10900000,2919.648652,44202.08124,15.13952071,3733.325924,10900000,8721182.533,7697459.283,11333085.78,11859264.76
+Others,Other items,Winter,Beni sweif,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Others,Other items,Winter,Fayoum,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Others,Other items,Winter,Minya,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Others,Other items,Winter,Assuit,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Others,Other items,Winter,Sohag,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Others,Other items,Winter,Qena,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Others,Other items,Winter,Aswan,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Others,Other items,Winter,Luxor,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Others,Other items,Summer,Cairo,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Others,Other items,Summer,Alexandria,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Others,Other items,Summer,Port said,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Others,Other items,Summer,Suez,lower Egypt,681000,180,2800,15.55555556,3783.333333,681000,544867.0606,480914.658,1079341.346,1175925.481
+Others,Other items,Summer,Damietta,lower Egypt,79000,21,315,15,3761.904762,79000,63200,55788.92508,87240.31428,156223.5167
+Others,Other items,Summer,Dakahlia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Others,Other items,Summer,Sharkia,lower Egypt,2916000,739,11085,15,3945.872801,2916000,2333070.188,2059246.906,5163405.221,5370272.418
+Others,Other items,Summer,Quliubiya,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Others,Other items,Summer,Kafr el sheikh,lower Egypt,124000,31,465,15,4000,124000,99183.96379,87567.42671,158965.8087,168826.7384
+Others,Other items,Summer,Gharbia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Others,Other items,Summer,Monoufia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Others,Other items,Summer,Behaira,lower Egypt,1065000,5.537426766,83.06140148,15,192327.6,1065000,852031.9292,752091.2052,1094250,1150500
+Others,Other items,Summer,Ismailia,lower Egypt,249000,115.4657839,1847.452542,16,2156.483,249000,199209.6028,175841.0423,264107.2589,284520.0433
+Others,Other items,Summer,Giza,Middle Egupt,8668000,3232,49464.26248,15.30453666,2681.930693,8668000,6935087.664,6121245.603,9228169.761,10149941.64
+Others,Other items,Summer,Beni sweif,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Others,Other items,Summer,Fayoum,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Others,Other items,Summer,Minya,Middle Egupt,194000,36.78359977,560,15.22417608,5274.089572,194000,155214.9173,137000.6515,206387.0334,227063.8507
+Others,Other items,Summer,Assuit,Upper Egypt,502000,94,1430,15.21276596,5340.425532,502000,401631.2432,354506.8404,540787.1867,594836.1264
+Others,Other items,Summer,Sohag,Upper Egypt,86000,15.85710657,242.1562597,15.27115043,5423.435836,86000,68805.10234,60732.24756,88110.5461,96933.00906
+Others,Other items,Summer,Qena,Upper Egypt,1345000,253,3916.22563,15.47915269,5316.205534,1345000,1076000,949824.1042,1487937.554,1636654.254
+Others,Other items,Summer,Aswan,Upper Egypt,2051000,360,5590.694477,15.52970688,5697.222222,2051000,1640900.269,1448393.485,2338180.235,2572048.553
+Others,Other items,Summer,Luxor,Upper Egypt,6374000,1120.705903,17176.93719,15.32689097,5687.486771,6374000,5099200,4501248.208,6760948.482,7437220.83
+Forestation Alfalfa,feed,Winter,Cairo,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Forestation Alfalfa,feed,Winter,Alexandria,lower Egypt,3932000,4001,54990,13.74406398,982.7543114,3932000,3145441.659,NO,4028970.565,4193716.256
+Forestation Alfalfa,feed,Winter,Port said,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Forestation Alfalfa,feed,Winter,Suez,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Forestation Alfalfa,feed,Winter,Damietta,lower Egypt,4021000,2952,26370,8.932926829,1362.127371,4021000,3159985.346,NO,4553397.213,5084520.748
+Forestation Alfalfa,feed,Winter,Dakahlia,lower Egypt,19472000,15096,121925,8.076642819,1289.878113,19472000,15577600,NO,21604647.62,23762583.55
+Forestation Alfalfa,feed,Winter,Sharkia,lower Egypt,5042000,3702,45256,12.22474338,1361.966505,5042000,4032499.727,NO,7267858.537,7685975.61
+Forestation Alfalfa,feed,Winter,Quliubiya,lower Egypt,5936000,4358,50315,11.54543369,1362.092703,5936000,4748059.081,NO,7990918.354,8444551.274
+Forestation Alfalfa,feed,Winter,Kafr el sheikh,lower Egypt,39505000,29005,354578.6818,12.22474338,1362.006551,39505000,31599069.07,NO,44989570.6,49240448.07
+Forestation Alfalfa,feed,Winter,Gharbia,lower Egypt,10835000,7955,91843.92497,11.54543369,1362.036455,10835000,8668620.739,NO,12303382.82,13241936.78
+Forestation Alfalfa,feed,Winter,Monoufia,lower Egypt,12526000,9197,120651,13.11851691,1361.965858,12526000,10020061.87,NO,13467434.95,14329471.78
+Forestation Alfalfa,feed,Winter,Behaira,lower Egypt,91465000,67155,775333.5991,11.54543369,1361.998362,91465000,73176909.55,NO,97109656.05,103617189.5
+Forestation Alfalfa,feed,Winter,Ismailia,lower Egypt,4522000,4949,64923.54018,13.11851691,913.7199434,4522000,3617818.533,NO,5102387.622,5231561.992
+Forestation Alfalfa,feed,Winter,Giza,Middle Egupt,9992000,5896,62932,10.67367707,1694.708277,9992000,7994717.361,NO,10874557.85,11963561.98
+Forestation Alfalfa,feed,Winter,Beni sweif,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Forestation Alfalfa,feed,Winter,Fayoum,Middle Egupt,6271000,3559,32657,9.175892105,1762.011801,6271000,5016800,NO,6501136.53,6948183.352
+Forestation Alfalfa,feed,Winter,Minya,Middle Egupt,1392000,790,10043,12.71265823,1762.025316,1392000,1113785.476,NO,1470802.235,1544938.547
+Forestation Alfalfa,feed,Winter,Assuit,Upper Egypt,5185000,2582,29720,11.51045701,2008.13323,5185000,4074738.626,NO,6041200.401,6546192.385
+Forestation Alfalfa,feed,Winter,Sohag,Upper Egypt,5562000,2840,32000,11.26760563,1958.450704,5562000,4450562.284,NO,6025670.97,6384708.226
+Forestation Alfalfa,feed,Winter,Qena,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Forestation Alfalfa,feed,Winter,Aswan,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Forestation Alfalfa,feed,Winter,Luxor,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Sustains Alfalfa,feed,Winter,Cairo,lower Egypt,805000,377,7275,19.29708223,2135.278515,805000,644043.2099,NO,1219792.073,1386127.355
+Sustains Alfalfa,feed,Winter,Alexandria,lower Egypt,41870000,17993,358091,19.90168399,2327.016062,41870000,33496000,NO,45964224.47,51429913.29
+Sustains Alfalfa,feed,Winter,Port said,lower Egypt,30793000,14416,288320,20,2136.029412,30793000,24634400,NO,34242519.09,36571493.76
+Sustains Alfalfa,feed,Winter,Suez,lower Egypt,6408000,3231,76178,23.57722067,1983.286908,6408000,5127629.156,NO,10278968.13,10866155.38
+Sustains Alfalfa,feed,Winter,Damietta,lower Egypt,99365000,50581,1030396,20.37120658,1964.472826,99365000,79477945.54,NO,113742060.1,118680440.9
+Sustains Alfalfa,feed,Winter,Dakahlia,lower Egypt,341256000,164264,3378189,20.5656078,2077.485024,341256000,273004800,NO,394422343.5,431162522.4
+Sustains Alfalfa,feed,Winter,Sharkia,lower Egypt,685969000,287078,5236148,18.23946105,2389.486481,685969000,548713233.5,NO,792840274,866692818
+Sustains Alfalfa,feed,Winter,Quliubiya,lower Egypt,96608000,35865,737585.5238,20.5656078,2693.656768,96608000,77273111.42,NO,114301594.3,130435422.8
+Sustains Alfalfa,feed,Winter,Kafr el sheikh,lower Egypt,275715000,106860,1949068.808,18.23946105,2580.1516,275715000,220547093.5,NO,295668642.7,314558091
+Sustains Alfalfa,feed,Winter,Gharbia,lower Egypt,256429000,91961,1891233.859,20.5656078,2788.453801,256429000,205202307.7,NO,272810820.5,291744583
+Sustains Alfalfa,feed,Winter,Monoufia,lower Egypt,274486000,100415,1831515.482,18.23946105,2733.515909,274486000,219588800,NO,293645187.3,322996804.2
+Sustains Alfalfa,feed,Winter,Behaira,lower Egypt,379096420,137155,2820675.938,20.5656078,2764,379096420,303364519,NO,396807757.5,436473773.8
+Sustains Alfalfa,feed,Winter,Ismailia,lower Egypt,36929804,13361,243697.4391,18.23946105,2764,36929804,29553678.03,NO,41437053.45,45578143.37
+Sustains Alfalfa,feed,Winter,Giza,Middle Egupt,128847040,37952,780505.9473,20.5656078,3395,128847040,103116228.2,NO,140273841.7,154276978
+Sustains Alfalfa,feed,Winter,Beni sweif,Middle Egupt,209390020,61676,1124937,18.23946105,3395,209390020,167512016,NO,227999082.1,250780716.3
+Sustains Alfalfa,feed,Winter,Fayoum,Middle Egupt,299326965,88167,1531222,17.36729162,3395,299326965,239487645.8,NO,309994933.1,341000665
+Sustains Alfalfa,feed,Winter,Minya,Middle Egupt,281452290,82902,1512087.8,18.23946105,3395,281452290,225178119.7,NO,303464470.2,333826098
+Sustains Alfalfa,feed,Winter,Assuit,Upper Egypt,263331000,58518,1016299.171,17.36729162,4500,263331000,210693368.6,NO,272595839.4,299618287.5
+Sustains Alfalfa,feed,Winter,Sohag,Upper Egypt,328855500,73079,1332921.574,18.23946105,4500,328855500,263084400,NO,343269203.1,377587543.8
+Sustains Alfalfa,feed,Winter,Qena,Upper Egypt,78853500,17523,304327.051,17.36729162,4500,78853500,63082800,NO,89738853.4,103367315.8
+Sustains Alfalfa,feed,Winter,Aswan,Upper Egypt,16798500,3733,68739,18.41387624,4500,16798500,13438391.48,NO,17436318.66,18203266.25
+Sustains Alfalfa,feed,Winter,Luxor,Upper Egypt,33043500,7343,127528.0223,17.36729162,4500,33043500,26436509.44,NO,34825066.12,37640460.74
+Fully grown Onions,garlic and onion,Winter,Cairo,lower Egypt,73800,40,736.5550496,18.41387624,1845,73800,59036.07342,52116.74267,80769.75493,88842.31919
+Fully grown Onions,garlic and onion,Winter,Alexandria,lower Egypt,363465,197,3421.356449,17.36729162,1845,363465,290705.553,256674.9577,398834.5408,438727.0408
+Fully grown Onions,garlic and onion,Winter,Port said,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Fully grown Onions,garlic and onion,Winter,Suez,lower Egypt,771210,418,6688,16,1845,771210,616851.9413,544619.9609,915566.704,1007358.739
+Fully grown Onions,garlic and onion,Winter,Damietta,lower Egypt,2942775,1595,22330,14,1845,2942775,2354220,2078155.114,3958907.421,4025210.447
+Fully grown Onions,garlic and onion,Winter,Dakahlia,lower Egypt,40907340,22172,307649.7608,13.87559809,1845,40907340,32724877.17,28888310.46,46851918.72,51546203.64
+Fully grown Onions,garlic and onion,Winter,Sharkia,lower Egypt,32505210,17618,249192.5266,14.14420063,1845,32505210,25997353.49,22954819.31,36693928.02,40636250.87
+Fully grown Onions,garlic and onion,Winter,Quliubiya,lower Egypt,24472080,13264,170732.4229,12.87186542,1845,24472080,19580073.86,17281911.87,27000607.48,28372873.64
+Fully grown Onions,garlic and onion,Winter,Kafr el sheikh,lower Egypt,2688165,1457,18380.21461,12.61510955,1845,2688165,2150532,1898352.352,2997169.437,3239338.644
+Fully grown Onions,garlic and onion,Winter,Gharbia,lower Egypt,79927245,43321,606059.6142,13.98997286,1845,79927245,63950809.5,56443735.23,86323141.62,91431273.82
+Fully grown Onions,garlic and onion,Winter,Monoufia,lower Egypt,1533195,831,13596.00412,16.36101579,1845,1533195,1226698.061,1082725.329,1647224.532,1811474.324
+Fully grown Onions,garlic and onion,Winter,Behaira,lower Egypt,21005325,11385,188991,16.6,1845,21005325,16806628.8,14833727.88,21853607.02,24038967.73
+Fully grown Onions,garlic and onion,Winter,Ismailia,lower Egypt,819180,444,6049.833935,13.62575211,1845,819180,655238.0601,578495.8436,864721.6261,968518.5823
+Fully grown Onions,garlic and onion,Winter,Giza,Middle Egupt,5406431,2077,31370.63584,15.10382082,2603,5406431,4324860.176,3817961.696,6315814.402,6615030.876
+Fully grown Onions,garlic and onion,Winter,Beni sweif,Middle Egupt,35507523,13641,204615,15,2603,35507523,28403503.7,25075019.5,50430576.4,54278140.81
+Fully grown Onions,garlic and onion,Winter,Fayoum,Middle Egupt,26407435,10145,164073.5171,16.17284545,2603,26407435,21126739.71,18648638.14,29232352.01,30949458.43
+Fully grown Onions,garlic and onion,Winter,Minya,Middle Egupt,7371696,2832,43612.8,15.4,2603,7371696,5897641.092,5205810.074,9543463.69,10086405.61
+Fully grown Onions,garlic and onion,Winter,Assuit,Upper Egypt,10328864,2912,39399.40306,13.53001479,3547,10328864,8263910.626,7294129.365,12164986.13,12668701.05
+Fully grown Onions,garlic and onion,Winter,Sohag,Upper Egypt,50229067,14161,177642.5445,12.54449153,3547,50229067,40181399.79,35471210.83,59158093.59,61607649.56
+Fully grown Onions,garlic and onion,Winter,Qena,Upper Egypt,11797322,3326,46948.9114,14.11572802,3547,11797322,9437675.949,8331138.142,19957237.42,21375825.99
+Fully grown Onions,garlic and onion,Winter,Aswan,Upper Egypt,4522425,1275,22503.69148,17.6499541,3547,4522425,3618287.745,3193686.45,6463639.197,6535475.551
+Fully grown Onions,garlic and onion,Winter,Luxor,Upper Egypt,2170764,612,10938.16597,17.8728202,3547,2170764,1736746.303,1532969.496,2791708.197,2921791.433
+Fully grown Onions,garlic and onion,Summer,Cairo,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Fully grown Onions,garlic and onion,Summer,Alexandria,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Fully grown Onions,garlic and onion,Summer,Port said,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Fully grown Onions,garlic and onion,Summer,Suez,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Fully grown Onions,garlic and onion,Summer,Damietta,lower Egypt,444268,92,1298,14.10869565,4829,444268,355396.4824,313737.1414,552053.0824,621146.084
+Fully grown Onions,garlic and onion,Summer,Dakahlia,lower Egypt,1385923,287,3695,12.87456446,4829,1385923,1108682.589,978723.4736,1464371.472,1530035.748
+Fully grown Onions,garlic and onion,Summer,Sharkia,lower Egypt,12072.5,2.5,31,12.4,4829,12072.5,9658.42408,8525.465798,17116.35513,17804.15355
+Fully grown Onions,garlic and onion,Summer,Quliubiya,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Fully grown Onions,garlic and onion,Summer,Kafr el sheikh,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Fully grown Onions,garlic and onion,Summer,Gharbia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Fully grown Onions,garlic and onion,Summer,Monoufia,lower Egypt,1666005,345,4704,13.63478261,4829,1666005,1332804,1176514.28,1796744.125,1989965.002
+Fully grown Onions,garlic and onion,Summer,Behaira,lower Egypt,2926374,606,9157,15.11056106,4829,2926374,2340460.602,2066572.909,3191501.581,3510561.097
+Fully grown Onions,garlic and onion,Summer,Ismailia,lower Egypt,101409,21,215,10.23809524,4829,101409,81114.54233,71613.9127,111915.9672,123121.536
+Fully grown Onions,garlic and onion,Summer,Giza,Middle Egupt,16112560,2759,44607,16.16781443,5840,16112560,12888036.86,11378511.43,17095162.02,18801508.54
+Fully grown Onions,garlic and onion,Summer,Beni sweif,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Fully grown Onions,garlic and onion,Summer,Fayoum,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Fully grown Onions,garlic and onion,Summer,Minya,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Fully grown Onions,garlic and onion,Summer,Assuit,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Fully grown Onions,garlic and onion,Summer,Sohag,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Fully grown Onions,garlic and onion,Summer,Qena,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Fully grown Onions,garlic and onion,Summer,Aswan,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Fully grown Onions,garlic and onion,Summer,Luxor,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Fully grown Onions,garlic and onion,Nile,Cairo,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Fully grown Onions,garlic and onion,Nile,Alexandria,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Fully grown Onions,garlic and onion,Nile,Port said,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Fully grown Onions,garlic and onion,Nile,Suez,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Fully grown Onions,garlic and onion,Nile,Damietta,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Fully grown Onions,garlic and onion,Nile,Dakahlia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Fully grown Onions,garlic and onion,Nile,Sharkia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Fully grown Onions,garlic and onion,Nile,Quliubiya,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Fully grown Onions,garlic and onion,Nile,Kafr el sheikh,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Fully grown Onions,garlic and onion,Nile,Gharbia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Fully grown Onions,garlic and onion,Nile,Monoufia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Fully grown Onions,garlic and onion,Nile,Behaira,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Fully grown Onions,garlic and onion,Nile,Ismailia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Fully grown Onions,garlic and onion,Nile,Giza,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Fully grown Onions,garlic and onion,Nile,Beni sweif,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Fully grown Onions,garlic and onion,Nile,Fayoum,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Fully grown Onions,garlic and onion,Nile,Minya,Middle Egupt,40648876,8402,105404,12.54510831,4838,40648876,32528470.5,28705786.05,64425862.76,70190967.77
+Fully grown Onions,garlic and onion,Nile,Assuit,Upper Egypt,12058056,2007,28327,14.11410065,6008,12058056,9649656,8515265.605,13315805,23844960.92
+Fully grown Onions,garlic and onion,Nile,Sohag,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Fully grown Onions,garlic and onion,Nile,Qena,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Fully grown Onions,garlic and onion,Nile,Aswan,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Fully grown Onions,garlic and onion,Nile,Luxor,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Lupine,legumes,Winter,Cairo,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Lupine,legumes,Winter,Alexandria,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Lupine,legumes,Winter,Port said,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Lupine,legumes,Winter,Suez,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Lupine,legumes,Winter,Damietta,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Lupine,legumes,Winter,Dakahlia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Lupine,legumes,Winter,Sharkia,lower Egypt,29000,30,18,0.6,966.6666667,29000,23194.69835,20479.47883,35573.53716,39127.83342
+Lupine,legumes,Winter,Quliubiya,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Lupine,legumes,Winter,Kafr el sheikh,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Lupine,legumes,Winter,Gharbia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Lupine,legumes,Winter,Monoufia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Lupine,legumes,Winter,Behaira,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Lupine,legumes,Winter,Ismailia,lower Egypt,155680,160,133,0.83125,973,155680,124559.3304,109939.4919,165130.9162,181648.3431
+Lupine,legumes,Winter,Giza,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Lupine,legumes,Winter,Beni sweif,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Lupine,legumes,Winter,Fayoum,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Lupine,legumes,Winter,Minya,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Lupine,legumes,Winter,Assuit,Upper Egypt,22000,14,13,0.928571429,1571.428571,22000,17597.15487,15536.15635,24912.89199,27818.81533
+Lupine,legumes,Winter,Sohag,Upper Egypt,58000,38,29,0.763157895,1526.315789,58000,46396.94656,40958.95765,64352.38095,70780.08658
+Lupine,legumes,Winter,Qena,Upper Egypt,5000,3,3,1,1666.666667,5000,3999.645892,3530.944625,7207.317073,7621.95122
+Lupine,legumes,Winter,Aswan,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Lupine,legumes,Winter,Luxor,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Garlic,garlic and onion,Winter,Cairo,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Garlic,garlic and onion,Winter,Alexandria,lower Egypt,15000,14,108,7.714285714,1071.428571,15000,11999.44639,10592.83388,16127.377,17159.67401
+Garlic,garlic and onion,Winter,Port said,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Garlic,garlic and onion,Winter,Suez,lower Egypt,70000,35,160,4.571428571,2000,70000,56005.38255,49433.22476,78984.32851,80983.93176
+Garlic,garlic and onion,Winter,Damietta,lower Egypt,478000,259,1497,5.77992278,1845.559846,478000,382429.7495,337558.3062,520220.0413,572316.1157
+Garlic,garlic and onion,Winter,Dakahlia,lower Egypt,3498000,1896,11622,6.129746835,1844.936709,3498000,2798607.535,2470248.86,3738651.123,3957653.713
+Garlic,garlic and onion,Winter,Sharkia,lower Egypt,1879000,959,6267,6.534932221,1959.332638,1879000,1503200,1326928.99,1947956.552,2081906.637
+Garlic,garlic and onion,Winter,Quliubiya,lower Egypt,349000,189,1752,9.26984127,1846.560847,349000,279217.0618,246459.9349,368757.1695,387344.5065
+Garlic,garlic and onion,Winter,Kafr el sheikh,lower Egypt,26000,14,56,4,1857.142857,26000,20800,18360.91205,30293.38677,32825.6513
+Garlic,garlic and onion,Winter,Gharbia,lower Egypt,555000,301,2709,9,1843.853821,555000,443977.6165,391934.8534,601267.0601,637093.3235
+Garlic,garlic and onion,Winter,Monoufia,lower Egypt,260000,142,1055,7.429577465,1830.985915,260000,207989.5298,183609.1205,413180.5478,455472.3309
+Garlic,garlic and onion,Winter,Behaira,lower Egypt,2220000,1082,6156,5.689463956,2051.756007,2220000,1776077.984,1567739.414,2400973.81,2577034.305
+Garlic,garlic and onion,Winter,Ismailia,lower Egypt,201000,109,1227,11.25688073,1844.036697,201000,160860.2097,141943.9739,217385.4666,233326.0789
+Garlic,garlic and onion,Winter,Giza,Middle Egupt,3785000,1454,13242,9.107290234,2603.163686,3785000,2974519.904,2672925.081,5735295.647,6517381.417
+Garlic,garlic and onion,Winter,Beni sweif,Middle Egupt,39722000,15654,146052,9.330011499,2537.498403,39722000,31777600,28051236.48,43606184.01,48791473.99
+Garlic,garlic and onion,Winter,Fayoum,Middle Egupt,6466000,2484,16245,6.539855072,2603.059581,6466000,5171388.98,4566217.59,7190339.636,7679384.231
+Garlic,garlic and onion,Winter,Minya,Middle Egupt,14889000,5885,52815,8.97451147,2529.991504,14889000,11909341.59,10514446.91,23883201.69,25247532.37
+Garlic,garlic and onion,Winter,Assuit,Upper Egypt,3758000,1138,8614,7.569420035,3302.28471,3758000,3005930.934,2653857.98,4301742.685,4488513.026
+Garlic,garlic and onion,Winter,Sohag,Upper Egypt,2420000,736,7909,10.74592391,3288.043478,2420000,1936138.642,1708977.199,2797026.488,3057567.645
+Garlic,garlic and onion,Winter,Qena,Upper Egypt,592000,178,1003,5.634831461,3325.842697,592000,473565.1149,418063.8436,684231.2731,747966.961
+Garlic,garlic and onion,Winter,Aswan,Upper Egypt,30490000,8639,5915,0.684685728,3529.343674,30490000,24393636.61,21531700.33,36074192.73,41166115.04
+Garlic,garlic and onion,Winter,Luxor,Upper Egypt,890000,265,2396,9.041509434,3358.490566,890000,712043.0108,628508.1433,954409.7781,1015384.368
+Fenugreek,legumes,Winter,Cairo,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Fenugreek,legumes,Winter,Alexandria,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Fenugreek,legumes,Winter,Port said,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Fenugreek,legumes,Winter,Suez,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Fenugreek,legumes,Winter,Damietta,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Fenugreek,legumes,Winter,Dakahlia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Fenugreek,legumes,Winter,Sharkia,lower Egypt,19000,10,8,0.8,1900,19000,15202.53165,NO,19677.15715,21645.26886
+Fenugreek,legumes,Winter,Quliubiya,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Fenugreek,legumes,Winter,Kafr el sheikh,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Fenugreek,legumes,Winter,Gharbia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Fenugreek,legumes,Winter,Monoufia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Fenugreek,legumes,Winter,Behaira,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Fenugreek,legumes,Winter,Ismailia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Fenugreek,legumes,Winter,Giza,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Fenugreek,legumes,Winter,Beni sweif,Middle Egupt,298890,135,119,0.881481481,2214,298890,239112,NO,327975.6122,360780.6122
+Fenugreek,legumes,Winter,Fayoum,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Fenugreek,legumes,Winter,Minya,Middle Egupt,1851000,951,1196,1.257623554,1946.37224,1851000,1480545.392,NO,2197474.059,2417786.368
+Fenugreek,legumes,Winter,Assuit,Upper Egypt,1638570,579,434,0.749568221,2830,1638570,1310707.981,NO,2204363.885,2241282.151
+Fenugreek,legumes,Winter,Sohag,Upper Egypt,1638570,579,588,1.015544041,2830,1638570,1311233.696,NO,1876683.951,2064716.574
+Fenugreek,legumes,Winter,Qena,Upper Egypt,965000,372,341,0.916666667,2594.086022,965000,772000,NO,1089352.77,1206390.671
+Fenugreek,legumes,Winter,Aswan,Upper Egypt,31130,11,9,0.818181818,2830,31130,24911.17557,NO,34346.44341,36092.05088
+Fenugreek,legumes,Winter,Luxor,Upper Egypt,201000,74,57,0.77027027,2716.216216,201000,160853.5286,NO,224104.9403,242212.4637
+chickpeas,legumes,Winter,Cairo,lower Egypt,0,0,0,0,0,0,0,0,0,0
+chickpeas,legumes,Winter,Alexandria,lower Egypt,0,0,0,0,0,0,0,0,0,0
+chickpeas,legumes,Winter,Port said,lower Egypt,0,0,0,0,0,0,0,0,0,0
+chickpeas,legumes,Winter,Suez,lower Egypt,0,0,0,0,0,0,0,0,0,0
+chickpeas,legumes,Winter,Damietta,lower Egypt,0,0,0,0,0,0,0,0,0,0
+chickpeas,legumes,Winter,Dakahlia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+chickpeas,legumes,Winter,Sharkia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+chickpeas,legumes,Winter,Quliubiya,lower Egypt,0,0,0,0,0,0,0,0,0,0
+chickpeas,legumes,Winter,Kafr el sheikh,lower Egypt,0,0,0,0,0,0,0,0,0,0
+chickpeas,legumes,Winter,Gharbia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+chickpeas,legumes,Winter,Monoufia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+chickpeas,legumes,Winter,Behaira,lower Egypt,0,0,0,0,0,0,0,0,0,0
+chickpeas,legumes,Winter,Ismailia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+chickpeas,legumes,Winter,Giza,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+chickpeas,legumes,Winter,Beni sweif,Middle Egupt,4035000,1709,1794,1.049736688,2361.029842,4035000,3227901.873,2849472.313,4535318.365,4694879.357
+chickpeas,legumes,Winter,Fayoum,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+chickpeas,legumes,Winter,Minya,Middle Egupt,5357000,2269,3136,1.382106655,2360.951961,5357000,4286127.523,3783054.072,6654874.797,7804669.919
+chickpeas,legumes,Winter,Assuit,Upper Egypt,4218000,1556,1357,0.872107969,2710.796915,4218000,3374400,2978704.886,5241340.591,5897328.149
+chickpeas,legumes,Winter,Sohag,Upper Egypt,14000,5,5,1,2800,14000,11201.5788,9886.644951,14792.45283,15455.7652
+chickpeas,legumes,Winter,Qena,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+chickpeas,legumes,Winter,Aswan,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+chickpeas,legumes,Winter,Luxor,Upper Egypt,165000,61,39,0.639344262,2704.918033,165000,131978.6615,116521.1726,172455.0096,189681.5571
+vegetables,vegetables,Winter,Cairo,lower Egypt,1079800,486,4675,9.619341564,2221.8107,1079800,863783.1535,762542.8013,1196294.315,1315758.741
+vegetables,vegetables,Winter,Alexandria,lower Egypt,73910000.38,33595.90608,520342.2057,15.4882623,2199.970443,73910000.38,59122765.89,52194423.72,79710060.29,88282036.38
+vegetables,vegetables,Winter,Port said,lower Egypt,175939000.2,79971.15326,1238614.198,15.4882623,2200.030799,175939000.2,140756474.9,124246173.4,191878959.2,211061405.5
+vegetables,vegetables,Winter,Suez,lower Egypt,8715600,3958,34749.55,8.779573017,2202.021223,8715600,6972816.12,6154860.195,9618621.659,10581684.65
+vegetables,vegetables,Winter,Damietta,lower Egypt,48820200,22191,343700,15.48826101,2200,48820200,39060033.08,34476284.56,51797431.87,56967571.08
+vegetables,vegetables,Winter,Dakahlia,lower Egypt,176986537.2,79971.15326,1238614.198,15.4882623,2213.129734,176986537.2,141582697.7,124985932.4,201693902,232039189
+vegetables,vegetables,Winter,Sharkia,lower Egypt,4589069.439,2085.940654,32307.596,15.4882623,2200,4589069.439,3671184.891,3240750.015,4861404.38,5347394.357
+vegetables,vegetables,Winter,Quliubiya,lower Egypt,72910993.38,33595.90608,520342.2057,15.4882623,2170.234469,72910993.38,58334401.09,51488936.04,77993669.81,85795578.13
+vegetables,vegetables,Winter,Kafr el sheikh,lower Egypt,178136537.2,80971.15326,1238614.198,15.29698107,2200,178136537.2,142520316.5,125798049.7,195071438.3,206070394.7
+vegetables,vegetables,Winter,Gharbia,lower Egypt,4289069.439,2085.940654,32307.596,15.4882623,2056.179993,4289069.439,3431510.02,3028893.337,4741106.958,5276414.546
+vegetables,vegetables,Winter,Monoufia,lower Egypt,73910993.38,33595.90608,520342.2057,15.4882623,2200,73910993.38,59128794.71,52195124.97,81236629.59,89341588.79
+vegetables,vegetables,Winter,Behaira,lower Egypt,145936537.2,79971.15326,1238614.198,15.4882623,1824.864732,145936537.2,116756364.3,103058766.3,151330736.2,166457946.6
+vegetables,vegetables,Winter,Ismailia,lower Egypt,4589069.439,2085.940654,32307.596,15.4882623,2200,4589069.439,3671255.551,3240750.015,4957738.259,5455012.482
+vegetables,vegetables,Winter,Giza,Middle Egupt,104255245,36137,615484,17.0319617,2885,104255245,83399991.31,73623899.4,120356441.1,129659354.5
+vegetables,vegetables,Winter,Beni sweif,Middle Egupt,128790384.2,51573.79,582753.3,11.29940809,2497.206123,128790384.2,103027121,90950342.94,165780704.4,179695872.2
+vegetables,vegetables,Winter,Fayoum,Middle Egupt,21668975.35,7510.91,130834,17.41919421,2885,21668975.35,17335941.46,15302390.41,23923643.91,26379622.17
+vegetables,vegetables,Winter,Minya,Middle Egupt,95924189.05,33595.90608,520342.2057,15.4882623,2855.234469,95924189.05,76768085.39,67740599.95,106739902.4,118115049.3
+vegetables,vegetables,Winter,Assuit,Upper Egypt,303810411.2,79971.15326,1238614.198,15.4882623,3799,303810411.2,238755644.7,214547547.7,315881601,330547532.5
+vegetables,vegetables,Winter,Sohag,Upper Egypt,62484226,16974,283980.5483,16.73032569,3681.172735,62484226,49987380.8,44125668.39,68911494.33,75226984.08
+vegetables,vegetables,Winter,Qena,Upper Egypt,5326198,1402,710949,15.97613998,3799,5326198,4259796.109,3761302.04,5664920.255,5974916.947
+vegetables,vegetables,Winter,Aswan,Upper Egypt,271435540.5,71449.20782,1238614.198,17.33559036,3799,271435540.5,217114552.4,191684772.6,310419592.3,341170987.2
+vegetables,vegetables,Winter,Luxor,Upper Egypt,3173512,888,15449,17.39752252,3573.774775,3173512,2538413.489,2241099.028,3439590.172,3783372.588
+vegetables,vegetables,Summer,Cairo,lower Egypt,117216116.3,33595.90608,520342.2057,15.4882623,3489,117216116.3,93779608.39,82776723.19,121830924.1,134124771.8
+vegetables,vegetables,Summer,Alexandria,lower Egypt,259019353.7,79971.15326,1238614.198,15.4882623,3238.909821,259019353.7,207200219.6,182916599,285657338.7,302598162.5
+vegetables,vegetables,Summer,Port said,lower Egypt,7277846.943,2085.940654,32307.596,15.4882623,3489,7277846.943,5822668.206,5139534.909,10783159.83,11089678.22
+vegetables,vegetables,Summer,Suez,lower Egypt,13546660,3940,44596.45,11.31889594,3438.238579,13546660,10837982.67,9566501.264,13523709.28,15996648.91
+vegetables,vegetables,Summer,Damietta,lower Egypt,306637743,87887,1361220,15.48829747,3489,306637743,245344484.3,216544178.1,539196210.8,588505945.1
+vegetables,vegetables,Summer,Dakahlia,lower Egypt,7077846.943,2085.940654,32307.596,15.4882623,3393.119995,7077846.943,5663069.038,4998297.124,8208024.112,8615727.282
+vegetables,vegetables,Summer,Sharkia,lower Egypt,117216116.3,33595.90608,520342.2057,15.4882623,3489,117216116.3,93772893.06,82776723.19,135932963.4,142684929.4
+vegetables,vegetables,Summer,Quliubiya,lower Egypt,259019353.7,79971.15326,1238614.198,15.4882623,3238.909821,259019353.7,207249995.9,182916599,410529071.9,447264989.8
+vegetables,vegetables,Summer,Kafr el sheikh,lower Egypt,7391856.943,2175.940654,32307.596,14.84764575,3397.085729,7391856.943,5809042.431,5220047.509,8162885.098,14617492.23
+vegetables,vegetables,Summer,Gharbia,lower Egypt,114216116.3,33595.90608,520342.2057,15.4882623,3399.703406,114216116.3,91392653.63,80658156.41,139661732.1,151854423
+vegetables,vegetables,Summer,Monoufia,lower Egypt,249019353.7,79971.15326,1238614.198,15.4882623,3113.864732,249019353.7,199248663.4,175854709.7,440942329,458608287.7
+vegetables,vegetables,Summer,Behaira,lower Egypt,7077846.943,2085.940654,32307.596,15.4882623,3393.119995,7077846.943,5663208.238,4998297.124,8549213.613,9130116.818
+vegetables,vegetables,Summer,Ismailia,lower Egypt,111412404.9,32505.70504,520342.2057,16.00771941,3427.472339,111412404.9,89144994.92,78678206.45,142828734.2,151688652.7
+vegetables,vegetables,Summer,Giza,Middle Egupt,71489970,16587,241124,14.53692651,4310,71489970,57195813.36,50485425.07,91648878.18,97334019.85
+vegetables,vegetables,Summer,Beni sweif,Middle Egupt,220559397.2,55814.2453,630667.9,11.29940747,3951.66854,220559397.2,176447517.8,155756603.7,296095364.3,321133357.1
+vegetables,vegetables,Summer,Fayoum,Middle Egupt,4323324.07,1072.697,18664.7,17.39978764,4030.331091,4323324.07,3458659.256,3053083.578,4442063.252,4670407.833
+vegetables,vegetables,Summer,Minya,Middle Egupt,141099588.7,32505.70504,538614.1983,16.5698359,4340.76383,141099588.7,112906736.1,99642966.9,149660343.8,161227554.6
+vegetables,vegetables,Summer,Assuit,Upper Egypt,6116027.839,1090.201041,17307.596,15.87560033,5610,6116027.839,4891957.203,4319071.125,6511276.322,7161666.55
+vegetables,vegetables,Summer,Sohag,Upper Egypt,93392440,17004,271663,15.97641731,5492.380616,93392440,74713952,65952706.81,100989047.6,111091853
+vegetables,vegetables,Summer,Qena,Upper Egypt,111119230,19843,306248,15.43355339,5599.920879,111119230,88885346.13,78471169.59,136307036.5,149926024.9
+vegetables,vegetables,Summer,Aswan,Upper Egypt,182357005.3,32505.70504,32307.596,0.993905407,5610,182357005.3,145860520.7,128778497.5,194000625.5,213436514.5
+vegetables,vegetables,Summer,Luxor,Upper Egypt,7921120,1412,24577,17.40580737,5609.858357,7921120,6336180.452,5593807.218,8533147.81,9385992.704
+vegetables,vegetables,Nile,Cairo,lower Egypt,100616914.3,32505.70504,538614.1983,16.5698359,3095.361695,100616914.3,80516723.93,71054550.52,103086177.5,113408142.6
+vegetables,vegetables,Nile,Alexandria,lower Egypt,3709954.142,1090.201041,17307.596,15.87560033,3403,3709954.142,2967963.313,2619928.527,4104223.115,4514432.883
+vegetables,vegetables,Nile,Port said,lower Egypt,0,0,0,0,0,0,0,0,0,0
+vegetables,vegetables,Nile,Suez,lower Egypt,0,0,0,0,0,0,0,0,0,0
+vegetables,vegetables,Nile,Damietta,lower Egypt,11573067,3489,54036,15.48753224,3317.015477,11573067,9261920.32,8172771.745,12471778.84,13718268.05
+vegetables,vegetables,Nile,Dakahlia,lower Egypt,100616914.3,32505.70504,503456.886,15.4882623,3095.361695,100616914.3,80493531.41,71054550.52,103098317.9,107314035.8
+vegetables,vegetables,Nile,Sharkia,lower Egypt,3709954.142,1090.201041,16885.31968,15.4882623,3403,3709954.142,2968286.48,2619928.527,3887408.363,4010133.712
+vegetables,vegetables,Nile,Quliubiya,lower Egypt,110416914.3,32505.70504,503838.4282,15.5,3396.847234,110416914.3,88339921.27,77975201.99,129375808.5,147392645.9
+vegetables,vegetables,Nile,Kafr el sheikh,lower Egypt,0,0,0,0,0,0,0,0,0,0
+vegetables,vegetables,Nile,Gharbia,lower Egypt,110416914.3,32505.70504,503838.4282,15.5,3396.847234,110416914.3,88333531.41,77975201.99,122510195.3,134746875
+vegetables,vegetables,Nile,Monoufia,lower Egypt,3705954.142,1090.201041,16898.11613,15.5,3399.330952,3705954.142,2964763.313,2617103.772,5341997.311,5649320.338
+vegetables,vegetables,Nile,Behaira,lower Egypt,110616914.3,32505.70504,503838.4282,15.5,3403,110616914.3,88490841.31,78116439.78,148910163.5,157363578.9
+vegetables,vegetables,Nile,Ismailia,lower Egypt,3509954.142,1090.201041,17443.21665,16,3219.547598,3509954.142,2808144.894,2478690.742,3997249.201,4374932.657
+vegetables,vegetables,Nile,Giza,Middle Egupt,24668856,5962,82349,13.8123113,4137.681315,24668856,19733772.28,17420872.9,28012033.13,30148909.24
+vegetables,vegetables,Nile,Beni sweif,Middle Egupt,21111957.22,5088.815,57500.59,11.29940664,4148.698119,21111957.22,16885706.19,14909030.38,22698699.55,24151620.24
+vegetables,vegetables,Nile,Fayoum,Middle Egupt,5630195.076,1351.527,23516.2,17.39972638,4165.802885,5630195.076,4504962.679,3975981.409,5977656.014,6378232
+vegetables,vegetables,Nile,Minya,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+vegetables,vegetables,Nile,Assuit,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+vegetables,vegetables,Nile,Sohag,Upper Egypt,3226120,614,9807,15.9723127,5254.267101,3226120,2580817.544,2278250.215,3448066.655,3650047.398
+vegetables,vegetables,Nile,Qena,Upper Egypt,4595130,823.5,11756,14.2756527,5580,4595130,3675140.66,3245029.915,4763764.551,5091342.013
+vegetables,vegetables,Nile,Aswan,Upper Egypt,46552455.55,8521.945439,147732.9552,17.33559036,5462.655902,46552455.55,37246548.63,32874828.55,49187827.34,51667157.37
+vegetables,vegetables,Nile,Luxor,Upper Egypt,4688080,876,15237,17.39383562,5351.689498,4688080,3750464,3310670.176,5462223.872,5918818.437
+Maize,cereal,Summer,Cairo,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Maize,cereal,Summer,Alexandria,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Maize,cereal,Summer,Port said,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Maize,cereal,Summer,Suez,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Maize,cereal,Summer,Damietta,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Maize,cereal,Summer,Dakahlia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Maize,cereal,Summer,Sharkia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Maize,cereal,Summer,Quliubiya,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Maize,cereal,Summer,Kafr el sheikh,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Maize,cereal,Summer,Gharbia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Maize,cereal,Summer,Monoufia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Maize,cereal,Summer,Behaira,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Maize,cereal,Summer,Ismailia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Maize,cereal,Summer,Giza,Middle Egupt,4220500,1050,2438,2.321904762,4019.52381,4220500,3376650.4,2980470.358,4490124.238,4801750.241
+Maize,cereal,Summer,Beni sweif,Middle Egupt,24320920,6252,12991,2.077895074,3890.102367,24320920,19456736,17175164.35,26018525.93,28619235.36
+Maize,cereal,Summer,Fayoum,Middle Egupt,520680630,130803,242096,1.8508444,3980.647462,520680630,416569958.9,367698894.4,545006764.2,599487168.8
+Maize,cereal,Summer,Minya,Middle Egupt,73384260,17906,43951,2.454540378,4098.305596,73384260,58707408,51823151.69,82340743.1,90569620.23
+Maize,cereal,Summer,Assuit,Upper Egypt,329923270,65435,176966,2.704454802,5042,329923270,263925310,232988159.4,359182520.2,395038683.7
+Maize,cereal,Summer,Sohag,Upper Egypt,501198326,99603,227485,2.283917151,5031.960142,501198326,400938477.6,353940707.1,545741188.1,600271566
+Maize,cereal,Summer,Qena,Upper Egypt,172098586,34133,75043,2.198546861,5042,172098586,137684914.2,121534115.5,178232153.8,196058956
+Maize,cereal,Summer,Aswan,Upper Egypt,40585578,8109,16190,1.996547046,5005.00407,40585578,32480619.84,28661085.7,43759746.72,48137910.48
+Maize,cereal,Summer,Luxor,Upper Egypt,11132736,2208,4979,2.254981884,5042,11132736,8748888.987,7861814.869,11524421.79,12666838.68
+Maize,cereal,Nile,Cairo,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Maize,cereal,Nile,Alexandria,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Maize,cereal,Nile,Port said,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Maize,cereal,Nile,Suez,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Maize,cereal,Nile,Damietta,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Maize,cereal,Nile,Dakahlia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Maize,cereal,Nile,Sharkia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Maize,cereal,Nile,Quliubiya,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Maize,cereal,Nile,Kafr el sheikh,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Maize,cereal,Nile,Gharbia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Maize,cereal,Nile,Monoufia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Maize,cereal,Nile,Behaira,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Maize,cereal,Nile,Ismailia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Maize,cereal,Nile,Giza,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Maize,cereal,Nile,Beni sweif,Middle Egupt,3560000,952,1978,2.077731092,3739.495798,3560000,2848000,2514032.573,3824770.713,4206150.289
+Maize,cereal,Nile,Fayoum,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Maize,cereal,Nile,Minya,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Maize,cereal,Nile,Assuit,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Maize,cereal,Nile,Sohag,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Maize,cereal,Nile,Qena,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Maize,cereal,Nile,Aswan,Upper Egypt,3496332,778,1554,1.997429306,4494,3496332,2797253.272,2469070.937,4526382.733,4783895.417
+Maize,cereal,Nile,Luxor,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Sorghum,cereal,Summer,Cairo,lower Egypt,479274,138,272,1.971014493,3473,479274,383472.7951,338457.9909,564472.6817,587845.7714
+Sorghum,cereal,Summer,Alexandria,lower Egypt,162317601,46737,137891,2.950360528,3473,162317601,129872232.1,114626892.2,274588665.2,294106814.6
+Sorghum,cereal,Summer,Port said,lower Egypt,33646000,9849,24093,2.446238197,3416.184384,33646000,26916800,23760432.57,48088272.2,48622721.3
+Sorghum,cereal,Summer,Suez,lower Egypt,16101000,5187,11311,2.180643917,3104.10642,16101000,12882945.37,11370347.88,20706669.94,21671523.88
+Sorghum,cereal,Summer,Damietta,lower Egypt,8310889,2393,7618,3.183451734,3473,8310889,6531282.628,5869057.769,13430445.44,13961317.2
+Sorghum,cereal,Summer,Dakahlia,lower Egypt,538398352,155024,604316,3.89820931,3473,538398352,430811830.1,380210953.5,605156860.8,626447412.2
+Sorghum,cereal,Summer,Sharkia,lower Egypt,1009910197,290789,1014374,3.48835066,3473,1009910197,808062722.6,713187396.4,1418800667,1471348840
+Sorghum,cereal,Summer,Quliubiya,lower Egypt,255265000,84462,286364,3.390447775,3022.246691,255265000,204245565.4,180265316,317109691.1,371898276.4
+Sorghum,cereal,Summer,Kafr el sheikh,lower Egypt,219270000,69365,245253,3.535688027,3161.104303,219270000,175445661.1,154846045.6,272467698.3,306568786.9
+Sorghum,cereal,Summer,Gharbia,lower Egypt,382998967,110279,363272,3.294117647,3473,382998967,306419731.8,270469628.8,404678153.8,422824436.1
+Sorghum,cereal,Summer,Monoufia,lower Egypt,585884681,168697,629690,3.732668631,3473,585884681,468707744.8,413745273.1,830665584.1,864044798.1
+Sorghum,cereal,Summer,Behaira,lower Egypt,868114000,290455,974584,3.355370023,2988.807216,868114000,694491200,613052492.5,991811170.2,1091215668
+Sorghum,cereal,Summer,Ismailia,lower Egypt,120065083,34571,116176,3.360504469,3473,120065083,96075096.79,84788631.9,125489848.7,138025041.8
+Sorghum,cereal,Summer,Giza,Middle Egupt,186178830,44223,137225,3.103023314,4210,186178830,148916730.4,131477427.8,206264749,226862773.6
+Sorghum,cereal,Summer,Beni sweif,Middle Egupt,628138000,146405,405229,2.767863119,4290.413579,628138000,502510400,443584099,677430896.9,750281443.4
+Sorghum,cereal,Summer,Fayoum,Middle Egupt,467861000,102501,261863,2.554736051,4564.45303,467861000,374246536.1,330398256.7,510248902.3,561259300.9
+Sorghum,cereal,Summer,Minya,Middle Egupt,1243840290,295449,801407,2.712505373,4210,1243840290,994901139.8,878386237.4,1372714346,1510157156
+Sorghum,cereal,Summer,Assuit,Upper Egypt,949104066,208073,569782,2.738375474,4561.399442,949104066,759197516.2,670246780.2,1006983855,1107495531
+Sorghum,cereal,Summer,Sohag,Upper Egypt,809098110,162455,461355,2.839894125,4980.444492,809098110,647464987.8,571376124.6,922048408.3,1060772600
+Sorghum,cereal,Summer,Qena,Upper Egypt,188674968,39404,75118,1.906354685,4788.218658,188674968,150939974.4,133240172.8,199871744.8,219852733.2
+Sorghum,cereal,Summer,Aswan,Upper Egypt,59621650,11825,26223,2.217589852,5042,59621650,47711062.99,42104148.93,63777916.99,70157786.82
+Sorghum,cereal,Summer,Luxor,Upper Egypt,70008000,15748,34578,2.195707391,4445.516891,70008000,56025043.94,49438874.27,76663448.55,80986059.46
+Sorghum,cereal,Nile,Cairo,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sorghum,cereal,Nile,Alexandria,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sorghum,cereal,Nile,Port said,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sorghum,cereal,Nile,Suez,lower Egypt,1023000,330,719,2.178787879,3100,1023000,818459.2014,722431.2704,1105184.026,1216036.899
+Sorghum,cereal,Nile,Damietta,lower Egypt,247374,81,258,3.185185185,3054,247374,197926.0374,174692.7792,285578.4788,307652.1776
+Sorghum,cereal,Nile,Dakahlia,lower Egypt,89170692,29198,113821,3.898246455,3054,89170692,71336553.6,62971355.13,114781706.9,124416161.8
+Sorghum,cereal,Nile,Sharkia,lower Egypt,16764000,6256,21824,3.488491049,2679.667519,16764000,13411200,11838551.14,18508303.23,20408347.83
+Sorghum,cereal,Nile,Quliubiya,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sorghum,cereal,Nile,Kafr el sheikh,lower Egypt,9461000,2993,10582,3.535583027,3161.042432,9461000,7569289.446,6681253.42,9836910.509,10293624.21
+Sorghum,cereal,Nile,Gharbia,lower Egypt,21087870,6905,22747,3.294279508,3054,21087870,16869174.01,14892020.25,23257015.84,25388437.41
+Sorghum,cereal,Nile,Monoufia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sorghum,cereal,Nile,Behaira,lower Egypt,106316000,35571,119355,3.355401872,2988.839223,106316000,85068031.52,75079181.76,121585291.7,133630012.5
+Sorghum,cereal,Nile,Ismailia,lower Egypt,2107000,735,2471,3.361904762,2866.666667,2107000,1685282.919,1487940.065,2283658.134,2511906.696
+Sorghum,cereal,Nile,Giza,Middle Egupt,50532237,13443,41716,3.103176374,3759,50532237,40425789.6,35685306.13,52521695.15,57821611.66
+Sorghum,cereal,Nile,Beni sweif,Middle Egupt,69052830,18370,50846,2.767882417,3759,69052830,55240584.7,48764343.79,76154338.9,80670649.39
+Sorghum,cereal,Nile,Fayoum,Middle Egupt,59020059,15701,40111,2.554678046,3759,59020059,47203674.02,41679312.02,87446566.9,89932292.93
+Sorghum,cereal,Nile,Minya,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Sorghum,cereal,Nile,Assuit,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Sorghum,cereal,Nile,Sohag,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Sorghum,cereal,Nile,Qena,Upper Egypt,12684000,3172,6047,1.906368222,3998.738966,12684000,10148375.26,8957300.326,14709357.05,15439989.83
+Sorghum,cereal,Nile,Aswan,Upper Egypt,17787252,3958,8777,2.217534108,4494,17787252,14231807.49,12561160.37,28191654.21,30714365.43
+Sorghum,cereal,Nile,Luxor,Upper Egypt,14908000,3353,7363,2.195943931,4446.167611,14908000,11924472.03,10527864.5,16463020.32,29480761.85
+Sesame,oils,Summer,Cairo,lower Egypt,3000,1,0.5,0.5,3000,3000,2399.842064,2118.566775,3668.35443,3988.607595
+Sesame,oils,Summer,Alexandria,lower Egypt,6077250,1665,659,0.395795796,3650,6077250,4861369.6,4291686.645,10761078.32,11192211.27
+Sesame,oils,Summer,Port said,lower Egypt,3983000,1306,580,0.444104135,3049.770291,3983000,3186519.412,2812750.489,4810999.46,5137897.948
+Sesame,oils,Summer,Suez,lower Egypt,1197200,328,146,0.445121951,3650,1197200,957806.1705,845449.3811,1534789.243,1629994.929
+Sesame,oils,Summer,Damietta,lower Egypt,6000,2,1,0.5,3000,6000,4800.476002,4237.13355,7691.893968,8169.035728
+Sesame,oils,Summer,Dakahlia,lower Egypt,1022000,335,146,0.435820896,3050.746269,1022000,817562.2809,721725.0814,1372008.929,1488026.786
+Sesame,oils,Summer,Sharkia,lower Egypt,45431550,12447,7473,0.600385635,3650,45431550,36344540.46,32083257.46,46679317.92,49078871.62
+Sesame,oils,Summer,Quliubiya,lower Egypt,92000,30,16,0.533333333,3066.666667,92000,73607.0742,64969.38111,97581.79848,105123.8714
+Sesame,oils,Summer,Kafr el sheikh,lower Egypt,522000,171,94,0.549707602,3052.631579,522000,417632.4879,368630.6189,555734.2657,611244.7552
+Sesame,oils,Summer,Gharbia,lower Egypt,683000,224,129,0.575892857,3049.107143,683000,546440.5221,482327.0358,738555.7064,812439.8037
+Sesame,oils,Summer,Monoufia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sesame,oils,Summer,Behaira,lower Egypt,36960000,10400,6442,0.619423077,3553.846154,36960000,29569806.89,26100742.67,39319921.41,43259174.85
+Sesame,oils,Summer,Ismailia,lower Egypt,11052400,3576,1887,0.527684564,3090.715884,11052400,8841920,7805082.476,11906367.14,13096348.21
+Sesame,oils,Summer,Giza,Middle Egupt,13176906,3034,1811,0.59690178,4343.080422,13176906,10540993.37,9305385.084,13500283.53,14852059.87
+Sesame,oils,Summer,Beni sweif,Middle Egupt,14025872,3408,1941,0.569542254,4115.57277,14025872,11220132.78,9904915.471,15516447.34,17067288.53
+Sesame,oils,Summer,Fayoum,Middle Egupt,12606174,3086,1600,0.518470512,4084.95593,12606174,10085382.03,8902340.466,14371285.66,15808723.35
+Sesame,oils,Summer,Minya,Middle Egupt,20428304,4656,3081,0.661726804,4387.522337,20428304,16348762.51,14426242.04,21668451.67,23835865.71
+Sesame,oils,Summer,Assuit,Upper Egypt,4587002,901,447,0.496115427,5091.012209,4587002,3604789.629,3239290.012,4943207.749,5437255.569
+Sesame,oils,Summer,Sohag,Upper Egypt,10261222,2011,1284,0.638488314,5102.546992,10261222,8208977.6,7246361.334,10514283.16,10944215.03
+Sesame,oils,Summer,Qena,Upper Egypt,4053166,783,484,0.618135377,5176.457216,4053166,3241648.312,2862300.941,4247036.703,4381115.506
+Sesame,oils,Summer,Aswan,Upper Egypt,11103946,2173,1221,0.561895996,5109.961344,11103946,8881770.828,7841483.69,13010524.71,14822366.59
+Sesame,oils,Summer,Luxor,Upper Egypt,2443778,489,247,0.505112474,4997.501022,2443778,1954717.373,1725768.959,2767344.425,3090136.768
+Sesame,oils,Nile,Cairo,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sesame,oils,Nile,Alexandria,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sesame,oils,Nile,Port said,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sesame,oils,Nile,Suez,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sesame,oils,Nile,Damietta,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sesame,oils,Nile,Dakahlia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sesame,oils,Nile,Sharkia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sesame,oils,Nile,Quliubiya,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sesame,oils,Nile,Kafr el sheikh,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sesame,oils,Nile,Gharbia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sesame,oils,Nile,Monoufia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sesame,oils,Nile,Behaira,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sesame,oils,Nile,Ismailia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sesame,oils,Nile,Giza,Middle Egupt,2348000,746,445,0.596514745,3147.453083,2348000,1878526.033,1658131.596,2543738.842,2695306.529
+Sesame,oils,Nile,Beni sweif,Middle Egupt,4424200,1468,836,0.569482289,3013.760218,4424200,3539360,3124321.042,7030743.767,7750387.255
+Sesame,oils,Nile,Fayoum,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Sesame,oils,Nile,Minya,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Sesame,oils,Nile,Assuit,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Sesame,oils,Nile,Sohag,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Sesame,oils,Nile,Qena,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Sesame,oils,Nile,Aswan,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Sesame,oils,Nile,Luxor,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Barley,cereal,Winter,Cairo,lower Egypt,21000,16,23,1.4375,1312.5,21000,16804.84057,NO,24271.71746,26532.61179
+Barley,cereal,Winter,Alexandria,lower Egypt,2563328,1984,2744,1.383064516,1292,2563328,2050662.4,NO,2962684.427,3238656.51
+Barley,cereal,Winter,Port said,lower Egypt,3606000,2791,3557,1.274453601,1292.010032,3606000,2885631.195,NO,4266432.896,4868645.812
+Barley,cereal,Winter,Suez,lower Egypt,452000,410,415,1.012195122,1102.439024,452000,361720.3728,NO,484711.4828,515678.3532
+Barley,cereal,Winter,Damietta,lower Egypt,31008,24,36,1.5,1292,31008,24815.68847,NO,32988.92841,35278.44366
+Barley,cereal,Winter,Dakahlia,lower Egypt,60724,47,78,1.659574468,1292,60724,48579.2,NO,64962.54947,71455.95018
+Barley,cereal,Winter,Sharkia,lower Egypt,7538820,5835,6347,1.087746358,1292,7538820,6031712.692,NO,7891032.731,8679842.494
+Barley,cereal,Winter,Quliubiya,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Barley,cereal,Winter,Kafr el sheikh,lower Egypt,575000,445,608,1.366292135,1292.134831,575000,460062.3813,NO,625993.8838,688485.0623
+Barley,cereal,Winter,Gharbia,lower Egypt,16000,10,15,1.5,1600,16000,12800,NO,17421.96364,19162.76364
+Barley,cereal,Winter,Monoufia,lower Egypt,3000,2,1,0.5,1500,3000,2400,NO,3106.91955,3417.674031
+Barley,cereal,Winter,Behaira,lower Egypt,1105952,856,1687,1.970794393,1292,1105952,884734.7043,NO,1192447.707,1311752.129
+Barley,cereal,Winter,Ismailia,lower Egypt,1922496,1488,2263,1.520833333,1292,1922496,1538096.257,NO,1990135.65,2187417.962
+Barley,cereal,Winter,Giza,Middle Egupt,1677832,884,1612,1.823529412,1898,1677832,1342176.33,NO,1751371.206,1926464.553
+Barley,cereal,Winter,Beni sweif,Middle Egupt,284700,150,185,1.233333333,1898,284700,227707.9525,NO,324001.4909,373206.9575
+Barley,cereal,Winter,Fayoum,Middle Egupt,2611000,1410,2147,1.522695035,1851.77305,2611000,2089174.069,NO,2710136.501,2829343.583
+Barley,cereal,Winter,Minya,Middle Egupt,1913778,1061,2004,1.888784166,1803.749293,1913778,1530734.397,NO,2016960.836,2180019.843
+Barley,cereal,Winter,Assuit,Upper Egypt,953393,411,727,1.768856448,2319.690998,953393,762714.4,NO,1043432.506,1147718.77
+Barley,cereal,Winter,Sohag,Upper Egypt,541297,219,365,1.666666667,2471.675799,541297,433024.4362,NO,593971.7454,653382.3917
+Barley,cereal,Winter,Qena,Upper Egypt,777093,311,353,1.135048232,2498.691318,777093,621511.4874,NO,971828.02,1068931.661
+Barley,cereal,Winter,Aswan,Upper Egypt,4182730,1710,1536,0.898245614,2446.040936,4182730,3346595.889,NO,4965662.167,5463504.903
+Barley,cereal,Winter,Luxor,Upper Egypt,1281457,539,509,0.944341373,2377.471243,1281457,1025165.6,NO,1723940.711,1752812.941
+lentils,legumes,Winter,Cairo,lower Egypt,0,0,0,0,0,0,0,0,0,0
+lentils,legumes,Winter,Alexandria,lower Egypt,0,0,0,0,0,0,0,0,0,0
+lentils,legumes,Winter,Port said,lower Egypt,0,0,0,0,0,0,0,0,0,0
+lentils,legumes,Winter,Suez,lower Egypt,0,0,0,0,0,0,0,0,0,0
+lentils,legumes,Winter,Damietta,lower Egypt,180000,201,201,1,895.5223881,180000,143990.5238,NO,194403.8668,205907.6262
+lentils,legumes,Winter,Dakahlia,lower Egypt,957000,1066,1123,1.053470919,897.7485929,957000,765532.2238,NO,1028175.723,1130698.266
+lentils,legumes,Winter,Sharkia,lower Egypt,178000,198,193,0.974747475,898.989899,178000,142405.3365,NO,185188.3772,203707.215
+lentils,legumes,Winter,Quliubiya,lower Egypt,0,0,0,0,0,0,0,0,0,0
+lentils,legumes,Winter,Kafr el sheikh,lower Egypt,0,0,0,0,0,0,0,0,0,0
+lentils,legumes,Winter,Gharbia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+lentils,legumes,Winter,Monoufia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+lentils,legumes,Winter,Behaira,lower Egypt,0,0,0,0,0,0,0,0,0,0
+lentils,legumes,Winter,Ismailia,lower Egypt,2000,2,3,1.5,1000,2000,1600.124475,NO,2355.53225,2453.067646
+lentils,legumes,Winter,Giza,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+lentils,legumes,Winter,Beni sweif,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+lentils,legumes,Winter,Fayoum,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+lentils,legumes,Winter,Minya,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+lentils,legumes,Winter,Assuit,Upper Egypt,152000,85,59,0.694117647,1788.235294,152000,121593.8697,NO,245632.8928,255342.1439
+lentils,legumes,Winter,Sohag,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+lentils,legumes,Winter,Qena,Upper Egypt,16000,9,6,0.666666667,1777.777778,16000,12800.56204,NO,22478.04878,23310.56911
+lentils,legumes,Winter,Aswan,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+lentils,legumes,Winter,Luxor,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Green fodder,feed,Summer,Cairo,lower Egypt,765000,301,317.9,1.056146179,2541.528239,765000,612000,540234.5277,808301.8868,844547.1698
+Green fodder,feed,Summer,Alexandria,lower Egypt,6320965,2065,2602.8,1.260435835,3061,6320965,5055392.63,4463795.479,8961845.657,9321965.746
+Green fodder,feed,Summer,Port said,lower Egypt,46353000,15143,22273,1.470844615,3061.018292,46353000,37076614.31,32733975.24,52957817.95,58265527.18
+Green fodder,feed,Summer,Suez,lower Egypt,8534000,2999,4014.7,1.33867956,2845.615205,8534000,6827688.914,6026616.287,8919582.131,9810560.051
+Green fodder,feed,Summer,Damietta,lower Egypt,31109000,10163,10851.9,1.067785103,3061.005609,31109000,24885366.82,21968831.27,34465197.13,37906963.02
+Green fodder,feed,Summer,Dakahlia,lower Egypt,33396000,10913,18559.1,1.700641437,3060.203427,33396000,26718592.59,23583885.34,36016738.73,39889959.03
+Green fodder,feed,Summer,Sharkia,lower Egypt,100318153,32773,36752.9,1.121438379,3061,100318153,80259370.44,70843568.63,109406912.4,120344496.4
+Green fodder,feed,Summer,Quliubiya,lower Egypt,36212000,11830,18239.5,1.541800507,3061.031276,36212000,28973649.43,25572513.36,39963918.43,43965299.53
+Green fodder,feed,Summer,Kafr el sheikh,lower Egypt,75845000,24783,33673.7,1.35874188,3060.363959,75845000,60676000,53560899.02,80470301.64,88502411.48
+Green fodder,feed,Summer,Gharbia,lower Egypt,17644000,5764,6907.9,1.198455933,3061.068702,17644000,14117550.97,12459997.39,20107106.81,23132264.83
+Green fodder,feed,Summer,Monoufia,lower Egypt,3291000,1075,1264.2,1.176,3061.395349,3291000,2633369.377,2324067.752,3486301.967,3834824.262
+Green fodder,feed,Summer,Behaira,lower Egypt,69221000,22614,26832.9,1.186561422,3060.979924,69221000,55386023.32,48883103.58,74046444.41,81453501.57
+Green fodder,feed,Summer,Ismailia,lower Egypt,15782516,5156,6410.9,1.243386346,3061,15782516,12623780.48,11145438.01,17282912,18257396
+Green fodder,feed,Summer,Giza,Middle Egupt,68957000,18827,28597.6,1.51896744,3662.665321,68957000,55173081.1,48696669.71,76224579.04,84830922.65
+Green fodder,feed,Summer,Beni sweif,Middle Egupt,53856009,14607,19409.3,1.32876703,3687,53856009,43090110.6,38032517.1,59193909.51,65099671.78
+Green fodder,feed,Summer,Fayoum,Middle Egupt,147054000,39144,42219.1,1.078558655,3756.744329,147054000,117643200,103847906.2,152489503.4,167732545.6
+Green fodder,feed,Summer,Minya,Middle Egupt,11123679,3017,3115.2,1.03254889,3687,11123679,8899973.886,7855418.916,12017314.12,13222682.42
+Green fodder,feed,Summer,Assuit,Upper Egypt,53246935,12055,18936.9,1.570875156,4417,53246935,42590661.88,37602395.79,61470399.86,66221735.12
+Green fodder,feed,Summer,Sohag,Upper Egypt,91737000,22237,22541.3,1.0136844,4125.421595,91737000,73392350.32,64783653.42,118085092.9,127996824.7
+Green fodder,feed,Summer,Qena,Upper Egypt,14487760,3280,5403.3,1.647347561,4417,14487760,11590766.73,10231095.66,15995219.23,17637273.04
+Green fodder,feed,Summer,Aswan,Upper Egypt,4328660,980,1393.3,1.421734694,4417,4328660,3463271.408,3056851.752,4816728.196,5330041.299
+Green fodder,feed,Summer,Luxor,Upper Egypt,24191909,5477,6709.4,1.225013694,4417,24191909,19355387.4,17084058.21,25153117.42,26320940.72
+Green fodder,feed,Nile,Cairo,lower Egypt,291000,114,120.9,1.060526316,2552.631579,291000,232818.1111,205500.9772,320932.9159,350345.2594
+Green fodder,feed,Nile,Alexandria,lower Egypt,72800,28,35.7,1.275,2600,72800,58244.31919,51410.55375,77429.75281,81666.8764
+Green fodder,feed,Nile,Port said,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Green fodder,feed,Nile,Suez,lower Egypt,2205000,775,1037.3,1.338451613,2845.16129,2205000,1764107.798,1557146.58,2389874.791,2628739.566
+Green fodder,feed,Nile,Damietta,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Green fodder,feed,Nile,Dakahlia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Green fodder,feed,Nile,Sharkia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Green fodder,feed,Nile,Quliubiya,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Green fodder,feed,Nile,Kafr el sheikh,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Green fodder,feed,Nile,Gharbia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Green fodder,feed,Nile,Monoufia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Green fodder,feed,Nile,Behaira,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Green fodder,feed,Nile,Ismailia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Green fodder,feed,Nile,Giza,Middle Egupt,14590000,3984,6050.7,1.51875,3662.148594,14590000,11672783.15,10303296.42,17840430.38,19397928.27
+Green fodder,feed,Nile,Beni sweif,Middle Egupt,2272000,977,1097.4,1.123234391,2325.486182,2272000,1817709.798,1604461.238,4023064.699,4184245.176
+Green fodder,feed,Nile,Fayoum,Middle Egupt,1168000,311,356.5,1.146302251,3755.62701,1168000,934530.6122,824828.6645,1410807.775,1506669.546
+Green fodder,feed,Nile,Minya,Middle Egupt,1195000,429,443.5,1.033799534,2785.547786,1195000,956000,843895.7655,1531968.882,1626999.616
+Green fodder,feed,Nile,Assuit,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Green fodder,feed,Nile,Sohag,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Green fodder,feed,Nile,Qena,Upper Egypt,1672000,418,455,1.088516746,4000,1672000,1337889.273,1180747.883,1717921.127,1806230.986
+Green fodder,feed,Nile,Aswan,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Green fodder,feed,Nile,Luxor,Upper Egypt,464000,116,141.8,1.222413793,4000,464000,371200,327671.6612,493986.014,543328.6713
+Peanuts,oils,Summer,Cairo,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Peanuts,oils,Summer,Alexandria,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Peanuts,oils,Summer,Port said,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Peanuts,oils,Summer,Suez,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Peanuts,oils,Summer,Damietta,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Peanuts,oils,Summer,Dakahlia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Peanuts,oils,Summer,Sharkia,lower Egypt,67981250,18625,29211,1.568375839,3650,67981250,54378858.97,48007605.86,77499958.62,85251621.51
+Peanuts,oils,Summer,Quliubiya,lower Egypt,1546000,474,758,1.599156118,3261.603376,1546000,1237156.358,1091768.078,1639853.523,1803881.927
+Peanuts,oils,Summer,Kafr el sheikh,lower Egypt,20000,6,7,1.166666667,3333.333333,20000,16000,14123.7785,21553.10919,23707.22999
+Peanuts,oils,Summer,Gharbia,lower Egypt,243000,73,100,1.369863014,3328.767123,243000,194456.0123,171603.9088,248992.8401,259174.2243
+Peanuts,oils,Summer,Monoufia,lower Egypt,912000,299,469,1.568561873,3050.167224,912000,729842.8762,644044.2997,955622.709,985791.6853
+Peanuts,oils,Summer,Behaira,lower Egypt,39566000,10840,15588,1.43800738,3650,39566000,31664652.02,27941071.01,46359593.32,52815616.78
+Peanuts,oils,Summer,Ismailia,lower Egypt,30368000,8320,14530,1.746394231,3650,30368000,24294400,21445545.28,34388850.17,38400081.09
+Peanuts,oils,Summer,Giza,Middle Egupt,11780848,2672,4826,1.806137725,4409,11780848,9425704.606,8319504.386,13071131.35,14376714.51
+Peanuts,oils,Summer,Beni sweif,Middle Egupt,4990988,1132,1694,1.496466431,4409,4990988,3993079.23,3524580.451,7194326.605,7608213.415
+Peanuts,oils,Summer,Fayoum,Middle Egupt,142000,35,58,1.657142857,4057.142857,142000,113615.4055,100278.8274,191157.4135,202009.1444
+Peanuts,oils,Summer,Minya,Middle Egupt,28982043,7027,11025,1.568948342,4124.383521,28982043,23185634.4,20466797.79,33005687.12,36124257.26
+Peanuts,oils,Summer,Assuit,Upper Egypt,4104782,791,1330,1.681415929,5189.357775,4104782,3283825.6,2898751.588,4661071.003,5016637.17
+Peanuts,oils,Summer,Sohag,Upper Egypt,11058290,2145,3434,1.600932401,5155.379953,11058290,8846363.073,7809241.928,11889414.12,12650443.43
+Peanuts,oils,Summer,Qena,Upper Egypt,171666,33,53,1.606060606,5202,171666,137341.6808,121228.628,182260.1675,194473.8255
+Peanuts,oils,Summer,Aswan,Upper Egypt,2358122,461,600,1.301518438,5115.232104,2358122,1886372.135,1665279.64,2660781.182,2728142.73
+Peanuts,oils,Summer,Luxor,Upper Egypt,435968,84,120,1.428571429,5190.095238,435968,348694.6984,307875.7733,474475.5041,521990.6116
+fully grown Beans,legumes,Winter,Cairo,lower Egypt,0,0,0,0,0,0,0,0,0,0
+fully grown Beans,legumes,Winter,Alexandria,lower Egypt,7316777.529,4359,5258,1.206239963,1678.544971,7316777.529,5853422.023,5167027.259,7585292.565,8106890.738
+fully grown Beans,legumes,Winter,Port said,lower Egypt,155198.4349,90,91,1.011111111,1724.427054,155198.4349,124154.9736,109599.4159,163984.3426,172250.032
+fully grown Beans,legumes,Winter,Suez,lower Egypt,810000,824,888,1.077669903,983.0097087,810000,647830.1887,572013.0293,943755.511,1022645.291
+fully grown Beans,legumes,Winter,Damietta,lower Egypt,2474519.285,1319,1983,1.503411676,1876.057077,2474519.285,1979859.103,1747478.114,2680805.289,2840540.027
+fully grown Beans,legumes,Winter,Dakahlia,lower Egypt,12340000,7156,11934,1.667691448,1724.427054,12340000,9872000,8714371.336,19610184.46,21617417.55
+fully grown Beans,legumes,Winter,Sharkia,lower Egypt,10637000,9643,11938,1.237996474,1103.079954,10637000,8510799.549,7511731.596,11504125.41,12347708.96
+fully grown Beans,legumes,Winter,Quliubiya,lower Egypt,0,0,0,0,0,0,0,0,0,0
+fully grown Beans,legumes,Winter,Kafr el sheikh,lower Egypt,16641000,8139,9962,1.22398329,2044.600074,16641000,13314676.63,11751689.9,25215602.34,28654093.57
+fully grown Beans,legumes,Winter,Gharbia,lower Egypt,1264005.031,733,901,1.229195089,1724.427054,1264005.031,1011040.558,892626.354,1387604.752,1552607.335
+fully grown Beans,legumes,Winter,Monoufia,lower Egypt,176922.8619,91,147,1.615384615,1944.207274,176922.8619,141528.9754,124940.9657,196742.2621,210123.5132
+fully grown Beans,legumes,Winter,Behaira,lower Egypt,12027000,9775,13613,1.392634271,1230.383632,12027000,9620748.229,8493334.202,19292314.24,20394389.94
+fully grown Beans,legumes,Winter,Ismailia,lower Egypt,239695.3605,139,196,1.410071942,1724.427054,239695.3605,191763.4746,169270.209,274376.7333,286289.4487
+fully grown Beans,legumes,Winter,Giza,Middle Egupt,1021000,384,476,1.239583333,2658.854167,1021000,816839.3752,721018.8925,1180067.787,1289990.316
+fully grown Beans,legumes,Winter,Beni sweif,Middle Egupt,217000,92,113,1.22826087,2358.695652,217000,173617.2154,153242.9967,250807.7471,274170.3218
+fully grown Beans,legumes,Winter,Fayoum,Middle Egupt,855000,367,463,1.261580381,2329.700272,855000,683968.4444,603791.5309,1011591.826,1154379.415
+fully grown Beans,legumes,Winter,Minya,Middle Egupt,1188000,550,783,1.423636364,2160,1188000,950381.7076,838952.443,1273976.198,1355366.999
+fully grown Beans,legumes,Winter,Assuit,Upper Egypt,6848000,2721,3358,1.234105108,2516.721793,6848000,5478926.567,4835981.759,7285480.578,7791111.396
+fully grown Beans,legumes,Winter,Sohag,Upper Egypt,2922934.896,967,1210,1.251292658,3022.68345,2922934.896,2338529.833,2064144.252,3126956.439,3439514.694
+fully grown Beans,legumes,Winter,Qena,Upper Egypt,954601.5625,327,342,1.04587156,2919.270833,954601.5625,763642.7502,674129.0513,999200.4286,1099083.306
+fully grown Beans,legumes,Winter,Aswan,Upper Egypt,5334997.396,1759,2026,1.15179079,3032.9718,5334997.396,4267783.077,3767516.076,5986129.042,6584364.114
+fully grown Beans,legumes,Winter,Luxor,Upper Egypt,998390.625,342,568,1.660818713,2919.270833,998390.625,798747.5712,705052.4023,1086932.913,1195438.316
+Cotton,fiber,Summer,Cairo,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Cotton,fiber,Summer,Alexandria,lower Egypt,5310287.189,1708,1929,1.129391101,3109.067441,5310287.189,4247070.933,3750066.002,5499545.028,6049610.208
+Cotton,fiber,Summer,Port said,lower Egypt,19270000,6198,6345,1.023717328,3109.067441,19270000,15413594.76,13608260.59,20777092.77,22855841.42
+Cotton,fiber,Summer,Suez,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Cotton,fiber,Summer,Damietta,lower Egypt,27017000,8721,9925,1.138057562,3097.92455,27017000,21619827.51,19079106.19,28201152.36,31020562.74
+Cotton,fiber,Summer,Dakahlia,lower Egypt,118269000,51858,78104,1.506112847,2280.631725,118269000,94646696.4,83520257.98,134595477.1,155036226.4
+Cotton,fiber,Summer,Sharkia,lower Egypt,121985000,49522,69281,1.398994386,2463.248657,121985000,97565699.27,86144456.03,126616622.4,132185935.2
+Cotton,fiber,Summer,Quliubiya,lower Egypt,224000,72,81,1.125,3111.111111,224000,179222.0581,158186.3192,236077.135,255162.5344
+Cotton,fiber,Summer,Kafr el sheikh,lower Egypt,327496000,106541,119529,1.121906121,3073.896434,327496000,261954446.8,231274048.2,358425090.3,394248023.9
+Cotton,fiber,Summer,Gharbia,lower Egypt,44263000,14237,20046,1.408021353,3109.01173,44263000,35408069.76,31258040.39,48570325.29,53428459.43
+Cotton,fiber,Summer,Monoufia,lower Egypt,7511000,2416,3516,1.455298013,3108.857616,7511000,6008268.059,5304185.016,9393213.243,10331769.44
+Cotton,fiber,Summer,Behaira,lower Egypt,179007000,57577,68557,1.190701148,3109.001858,179007000,143198993.4,126412760.9,212513905.4,233819926.8
+Cotton,fiber,Summer,Ismailia,lower Egypt,5394232.01,1735,2027,1.168299712,3109.067441,5394232.01,4315800.39,3809346.905,7256846.05,7378382.323
+Cotton,fiber,Summer,Giza,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Cotton,fiber,Summer,Beni sweif,Middle Egupt,42689000,10294,13279,1.289974743,4146.978823,42689000,34153732.72,30146499.02,48190031.49,53367472.89
+Cotton,fiber,Summer,Fayoum,Middle Egupt,67024000,16162,21051,1.302499691,4147.011508,67024000,53619200,47331606.51,73949117.34,77707472.48
+Cotton,fiber,Summer,Minya,Middle Egupt,6731000,1623,2109,1.299445471,4147.258164,6731000,5385129.064,4753357.655,7504728.124,8111104.94
+Cotton,fiber,Summer,Assuit,Upper Egypt,19037000,4474,6567,1.467814037,4255.029057,19037000,15229600,13443718.57,20560368.96,21777019.33
+Cotton,fiber,Summer,Sohag,Upper Egypt,3787000,890,1228,1.379775281,4255.05618,3787000,3029447.268,2674337.459,4068653.565,4474351.445
+Cotton,fiber,Summer,Qena,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Cotton,fiber,Summer,Aswan,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Cotton,fiber,Summer,Luxor,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Wheat,cereal,Winter,Cairo,lower Egypt,29000,16,34,2.125,1812.5,29000,22790.24497,NO,41188.0805,44330.49536
+Wheat,cereal,Winter,Alexandria,lower Egypt,127047205,68935,176066,2.554087184,1843,127047205,101637764,NO,140637991.5,148899057.8
+Wheat,cereal,Winter,Port said,lower Egypt,24599000,13347,33454,2.506480857,1843.035888,24599000,19673831.97,NO,31846085.8,33657857.25
+Wheat,cereal,Winter,Suez,lower Egypt,9200000,5708,14547,2.548528381,1611.77295,9200000,7358851.675,NO,10835448.35,11284111.17
+Wheat,cereal,Winter,Damietta,lower Egypt,42197000,25153,65492,2.60374508,1677.613008,42197000,33752333.06,NO,49698197.17,51756047.72
+Wheat,cereal,Winter,Dakahlia,lower Egypt,419240000,240117,567375,2.362910581,1745.982167,419240000,335416018.3,NO,709217923.9,759630133.6
+Wheat,cereal,Winter,Sharkia,lower Egypt,636556000,364445,906887,2.488405658,1746.644898,636556000,509207289.3,NO,909792492.4,919903851.3
+Wheat,cereal,Winter,Quliubiya,lower Egypt,86507000,46938,134759,2.871000043,1843.005667,86507000,69210243.42,NO,111252214,116436154
+Wheat,cereal,Winter,Kafr el sheikh,lower Egypt,423860000,232835,589567,2.532123607,1820.430777,423860000,339108483.8,NO,684960249.6,712035007.3
+Wheat,cereal,Winter,Gharbia,lower Egypt,248737000,134963,340407,2.52222461,1843.001415,248737000,199022742.8,NO,279579054.3,289415168.9
+Wheat,cereal,Winter,Monoufia,lower Egypt,228945000,124224,353480,2.845504894,1843.001352,228945000,183156000,NO,321639804.9,333552390.2
+Wheat,cereal,Winter,Behaira,lower Egypt,617844000,349749,961685,2.749643316,1766.53543,617844000,494190214.6,NO,767533034.1,900143453.7
+Wheat,cereal,Winter,Ismailia,lower Egypt,71965464,39048,98660,2.526633886,1843,71965464,57565870.25,NO,89425203.32,100617343.9
+Wheat,cereal,Winter,Giza,Middle Egupt,64619000,34085,99255,2.911984744,1895.819275,64619000,51710094.89,NO,68276679.25,71338292.24
+Wheat,cereal,Winter,Beni sweif,Middle Egupt,258464000,124336,347344,2.793591558,2078.754343,258464000,206771200,NO,366449501.9,381174797.6
+Wheat,cereal,Winter,Fayoum,Middle Egupt,427859000,192990,506599,2.625001295,2217.000881,427859000,342385822.9,NO,488824434.9,537816973.9
+Wheat,cereal,Winter,Minya,Middle Egupt,458857000,235847,631829,2.678978321,1945.570645,458857000,367207798.9,NO,479589020.2,527495213.7
+Wheat,cereal,Winter,Assuit,Upper Egypt,705008538.8,222190,579375,2.607565597,3172.998509,705008538.8,563989685.9,NO,781068445.3,859067556.3
+Wheat,cereal,Winter,Sohag,Upper Egypt,644797756.6,203214,521531,2.566412747,3172.998694,644797756.6,515901700.9,NO,695398021.8,770180743
+Wheat,cereal,Winter,Qena,Upper Egypt,333028364,104957,282093,2.687700677,3172.998123,333028364,266422691.2,NO,363200517.1,399510253.6
+Wheat,cereal,Winter,Aswan,Upper Egypt,166671147.6,52528,126371,2.405783582,3172.996262,166671147.6,133355713.8,NO,183939913.6,202356868.7
+Wheat,cereal,Winter,Luxor,Upper Egypt,128318861.8,40441,88667,2.192502658,3172.989337,128318861.8,102638494.7,NO,136144208.8,149733386.6
+linen,fiber,Winter,Cairo,lower Egypt,0,0,0,0,0,0,0,0,0,0
+linen,fiber,Winter,Alexandria,lower Egypt,48000,32,140,4.375,1500,48000,38396.60057,NO,50848.52459,55931.80328
+linen,fiber,Winter,Port said,lower Egypt,0,0,0,0,0,0,0,0,0,0
+linen,fiber,Winter,Suez,lower Egypt,0,0,0,0,0,0,0,0,0,0
+linen,fiber,Winter,Damietta,lower Egypt,1893000,1269,6223,4.903861308,1491.725768,1893000,1514550.179,NO,2092508.783,2328769.183
+linen,fiber,Winter,Dakahlia,lower Egypt,6384000,4289,20979,4.891349965,1488.458848,6384000,5106964.385,NO,7016745.677,7716804.724
+linen,fiber,Winter,Sharkia,lower Egypt,2712000,2105,12199,5.795249406,1288.361045,2712000,2169558.242,NO,2812242.668,3093357.975
+linen,fiber,Winter,Quliubiya,lower Egypt,93000,62,289,4.661290323,1500,93000,74407.1511,NO,100471.2751,110548.809
+linen,fiber,Winter,Kafr el sheikh,lower Egypt,2976000,1995,9807,4.915789474,1491.729323,2976000,2380985.219,NO,3435613.9,3701168.597
+linen,fiber,Winter,Gharbia,lower Egypt,4012000,2689,11294,4.200074377,1492.004463,4012000,3209838.03,NO,5164300.039,5597776.914
+linen,fiber,Winter,Monoufia,lower Egypt,81000,54,249,4.611111111,1500,81000,64800,NO,89428.09365,98608.69565
+linen,fiber,Winter,Behaira,lower Egypt,1340000,943,5086,5.393425239,1420.996819,1340000,1072065.51,NO,1491088.647,1649992.224
+linen,fiber,Winter,Ismailia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+linen,fiber,Winter,Giza,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+linen,fiber,Winter,Beni sweif,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+linen,fiber,Winter,Fayoum,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+linen,fiber,Winter,Minya,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+linen,fiber,Winter,Assuit,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+linen,fiber,Winter,Sohag,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+linen,fiber,Winter,Qena,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+linen,fiber,Winter,Aswan,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+linen,fiber,Winter,Luxor,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Medical and Aromatic plants,Medicinal and aromatic plants,Winter,Cairo,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Medical and Aromatic plants,Medicinal and aromatic plants,Winter,Alexandria,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Medical and Aromatic plants,Medicinal and aromatic plants,Winter,Port said,lower Egypt,104000,83,65,0.78313253,1253.012048,104000,83205.58239,73443.64821,164833.3333,179583.3333
+Medical and Aromatic plants,Medicinal and aromatic plants,Winter,Suez,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Medical and Aromatic plants,Medicinal and aromatic plants,Winter,Damietta,lower Egypt,177000,138,122,0.884057971,1282.608696,177000,141619.7931,124995.4397,216432.9114,235327.8481
+Medical and Aromatic plants,Medicinal and aromatic plants,Winter,Dakahlia,lower Egypt,681044,364,353,0.96978022,1871,681044,544911.3581,480945.7303,1205934.892,1254249.591
+Medical and Aromatic plants,Medicinal and aromatic plants,Winter,Sharkia,lower Egypt,104000,75,51,0.68,1386.666667,104000,83200,73443.64821,125619.8704,134155.5076
+Medical and Aromatic plants,Medicinal and aromatic plants,Winter,Quliubiya,lower Egypt,301000,207,140,0.676328502,1454.10628,301000,240840.1066,212562.8664,385876.6808,409813.2924
+Medical and Aromatic plants,Medicinal and aromatic plants,Winter,Kafr el sheikh,lower Egypt,8545000,6670,4179,0.626536732,1281.109445,8545000,6715263.561,6034384.365,10954538.99,11634068.38
+Medical and Aromatic plants,Medicinal and aromatic plants,Winter,Gharbia,lower Egypt,2890000,2007,1954,0.973592427,1439.96014,2890000,2312500,2040885.993,3879751.276,4207825.255
+Medical and Aromatic plants,Medicinal and aromatic plants,Winter,Monoufia,lower Egypt,1030000,801,718,0.896379526,1285.892634,1030000,824137.2418,727374.5928,1058288.732,1112690.141
+Medical and Aromatic plants,Medicinal and aromatic plants,Winter,Behaira,lower Egypt,3933000,1755,1667,0.94985755,2241.025641,3933000,3146917.16,2777441.042,4171621.885,4494045.504
+Medical and Aromatic plants,Medicinal and aromatic plants,Winter,Ismailia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Medical and Aromatic plants,Medicinal and aromatic plants,Winter,Giza,Middle Egupt,856000,323,240,0.743034056,2650.154799,856000,684845.9474,604497.7199,925627.6496,1018226.167
+Medical and Aromatic plants,Medicinal and aromatic plants,Winter,Beni sweif,Middle Egupt,15462000,8640,8487,0.982291667,1789.583333,15462000,12369600,10919093.16,18966828.68,20861881.39
+Medical and Aromatic plants,Medicinal and aromatic plants,Winter,Fayoum,Middle Egupt,33726000,17889,16053,0.897367097,1885.292638,33726000,26980800,23816927.69,35879428.29,39473997.05
+Medical and Aromatic plants,Medicinal and aromatic plants,Winter,Minya,Middle Egupt,12950000,13816,12573,0.910031847,937.3190504,12950000,10362484.02,9145146.58,13950585.79,15344876.17
+Medical and Aromatic plants,Medicinal and aromatic plants,Winter,Assuit,Upper Egypt,5468000,2667,2589,0.970753656,2050.24372,5468000,4373626.591,3861441.042,5602191.466,6163135.972
+Medical and Aromatic plants,Medicinal and aromatic plants,Winter,Sohag,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Medical and Aromatic plants,Medicinal and aromatic plants,Winter,Qena,Upper Egypt,1142479,299,282,0.943143813,3821,1142479,913879.995,806806.0169,1302448.473,1432721.335
+Medical and Aromatic plants,Medicinal and aromatic plants,Winter,Aswan,Upper Egypt,11459179,2999,2672,0.890963655,3821,11459179,9165766.972,8092345.3,12154835.09,13370637.71
+Medical and Aromatic plants,Medicinal and aromatic plants,Winter,Luxor,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Medical and Aromatic plants,Medicinal and aromatic plants,Summer,Cairo,lower Egypt,214000,147,121,0.823129252,1455.782313,214000,171249.3277,151124.43,219277.6452,228243.9671
+Medical and Aromatic plants,Medicinal and aromatic plants,Summer,Alexandria,lower Egypt,393000,175,136,0.777142857,2245.714286,393000,314400,277532.2476,411797.9437,424798.3907
+Medical and Aromatic plants,Medicinal and aromatic plants,Summer,Port said,lower Egypt,6000,5,4,0.8,1200,6000,4801.797304,4237.13355,7030.21685,8009.242801
+Medical and Aromatic plants,Medicinal and aromatic plants,Summer,Suez,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Medical and Aromatic plants,Medicinal and aromatic plants,Summer,Damietta,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Medical and Aromatic plants,Medicinal and aromatic plants,Summer,Dakahlia,lower Egypt,1953324,1044,1012,0.969348659,1871,1953324,1562772.24,1379415.776,2815645.083,2977628.049
+Medical and Aromatic plants,Medicinal and aromatic plants,Summer,Sharkia,lower Egypt,175000,127,85,0.669291339,1377.952756,175000,140000,123583.0619,235581.3194,248954.9314
+Medical and Aromatic plants,Medicinal and aromatic plants,Summer,Quliubiya,lower Egypt,630000,432,393,0.909722222,1458.333333,630000,504000,444899.0228,717464.3585,785254.5825
+Medical and Aromatic plants,Medicinal and aromatic plants,Summer,Kafr el sheikh,lower Egypt,91000,71,44,0.61971831,1281.690141,91000,72797.78696,64263.19218,103332.5183,111215.1589
+Medical and Aromatic plants,Medicinal and aromatic plants,Summer,Gharbia,lower Egypt,1379000,958,950,0.991649269,1439.457203,1379000,1103271.34,973834.5277,1482643.526,1577546.031
+Medical and Aromatic plants,Medicinal and aromatic plants,Summer,Monoufia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Medical and Aromatic plants,Medicinal and aromatic plants,Summer,Behaira,lower Egypt,5809000,2593,2245,0.865792518,2240.262245,5809000,4646138.026,4102251.466,6554570.918,6720509.423
+Medical and Aromatic plants,Medicinal and aromatic plants,Summer,Ismailia,lower Egypt,470000,375,294,0.784,1253.333333,470000,376067.3352,331908.7948,511513.4298,562737.6033
+Medical and Aromatic plants,Medicinal and aromatic plants,Summer,Giza,Middle Egupt,1168000,441,438,0.993197279,2648.526077,1168000,934371.5953,824828.6645,1248354.634,1321480.714
+Medical and Aromatic plants,Medicinal and aromatic plants,Summer,Beni sweif,Middle Egupt,13717000,7665,7430.057471,0.969348659,1789.562948,13717000,10970724.32,9686793.485,14220393.84,15198250.84
+Medical and Aromatic plants,Medicinal and aromatic plants,Summer,Fayoum,Middle Egupt,12201000,6472,4331.653543,0.669291339,1885.197775,12201000,9762001.477,8616211.075,12891708.38,13541519.55
+Medical and Aromatic plants,Medicinal and aromatic plants,Summer,Minya,Middle Egupt,2103000,2244,2041.416667,0.909722222,937.1657754,2103000,1682400,1485115.309,2450268.938,2655090.18
+Medical and Aromatic plants,Medicinal and aromatic plants,Summer,Assuit,Upper Egypt,12141000,5922,3669.971831,0.61971831,2050.151976,12141000,9713520.32,8573839.739,13153123.2,13936846.92
+Medical and Aromatic plants,Medicinal and aromatic plants,Summer,Sohag,Upper Egypt,46000,22.5,22.31210856,0.991649269,2044.444444,46000,36800,32484.69055,73101.17384,80583.56624
+Medical and Aromatic plants,Medicinal and aromatic plants,Summer,Qena,Upper Egypt,5185097,1357,1315.40613,0.969348659,3821,5185097,4148331.088,3661658.077,5607784.73,6018996.776
+Medical and Aromatic plants,Medicinal and aromatic plants,Summer,Aswan,Upper Egypt,30090375,7875,5270.669291,0.669291339,3821,30090375,24072300,21249489.58,32543334.38,34929697.57
+Medical and Aromatic plants,Medicinal and aromatic plants,Summer,Luxor,Upper Egypt,18226170,4770,4339.375,0.909722222,3821,18226170,14580200.93,12871119.4,27617562.34,31383593.57
+Medical and Aromatic plants,Medicinal and aromatic plants,Nile,Cairo,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Medical and Aromatic plants,Medicinal and aromatic plants,Nile,Alexandria,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Medical and Aromatic plants,Medicinal and aromatic plants,Nile,Port said,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Medical and Aromatic plants,Medicinal and aromatic plants,Nile,Suez,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Medical and Aromatic plants,Medicinal and aromatic plants,Nile,Damietta,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Medical and Aromatic plants,Medicinal and aromatic plants,Nile,Dakahlia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Medical and Aromatic plants,Medicinal and aromatic plants,Nile,Sharkia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Medical and Aromatic plants,Medicinal and aromatic plants,Nile,Quliubiya,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Medical and Aromatic plants,Medicinal and aromatic plants,Nile,Kafr el sheikh,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Medical and Aromatic plants,Medicinal and aromatic plants,Nile,Gharbia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Medical and Aromatic plants,Medicinal and aromatic plants,Nile,Monoufia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Medical and Aromatic plants,Medicinal and aromatic plants,Nile,Behaira,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Medical and Aromatic plants,Medicinal and aromatic plants,Nile,Ismailia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Medical and Aromatic plants,Medicinal and aromatic plants,Nile,Giza,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Medical and Aromatic plants,Medicinal and aromatic plants,Nile,Beni sweif,Middle Egupt,1553000,868,841.394636,0.969348659,1789.170507,1553000,1242610.078,1096711.401,1608348.687,1769215.923
+Medical and Aromatic plants,Medicinal and aromatic plants,Nile,Fayoum,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Medical and Aromatic plants,Medicinal and aromatic plants,Nile,Minya,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Medical and Aromatic plants,Medicinal and aromatic plants,Nile,Assuit,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Medical and Aromatic plants,Medicinal and aromatic plants,Nile,Sohag,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Medical and Aromatic plants,Medicinal and aromatic plants,Nile,Qena,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Medical and Aromatic plants,Medicinal and aromatic plants,Nile,Aswan,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Medical and Aromatic plants,Medicinal and aromatic plants,Nile,Luxor,Upper Egypt,14951573,3913,3793.061303,0.969348659,3821,14951573,11959907.76,10558635.27,16363616.36,17999084.29
+sugar Beet,sugars,Winter,Cairo,lower Egypt,0,0,0,0,0,0,0,0,0,0
+sugar Beet,sugars,Winter,Alexandria,lower Egypt,14351000,7746,153262,19.78595404,1852.698167,14351000,11479503.61,10134517.26,17947277.76,19740543.63
+sugar Beet,sugars,Winter,Port said,lower Egypt,78272000,28257,580738,20.55200481,2770.003893,78272000,62635641.95,55274819.54,92923116.99,102239316.4
+sugar Beet,sugars,Winter,Suez,lower Egypt,0,0,0,0,0,0,0,0,0,0
+sugar Beet,sugars,Winter,Damietta,lower Egypt,12318000,5388,111090,20.61804009,2286.191537,12318000,9857239.339,8698835.179,14108028.9,15521569.88
+sugar Beet,sugars,Winter,Dakahlia,lower Egypt,164638000,87595,1949424,22.25496889,1879.536503,164638000,131754245,116265532.2,185853742.3,205821499.7
+sugar Beet,sugars,Winter,Sharkia,lower Egypt,183893040,77592,1571414,20.25226828,2370,183893040,147125074,129863228.2,202893411.2,213205170.5
+sugar Beet,sugars,Winter,Quliubiya,lower Egypt,817000,295,5596,18.96949153,2769.491525,817000,653688.6357,576956.3518,910914.1104,984515.3374
+sugar Beet,sugars,Winter,Kafr el sheikh,lower Egypt,318091920,134216,2494384,18.5848483,2370,318091920,254473536,224632991.1,343546106.9,363875289.8
+sugar Beet,sugars,Winter,Gharbia,lower Egypt,40276000,14540,351490,24.17400275,2770.013755,40276000,32220800,28442465.15,43271479,47586210.4
+sugar Beet,sugars,Winter,Monoufia,lower Egypt,4789000,1729,36630,21.18565645,2769.809138,4789000,3831447.75,3381938.762,4982399.655,5480639.621
+sugar Beet,sugars,Winter,Behaira,lower Egypt,88363000,39900,834773,20.92162907,2214.611529,88363000,70685698.59,62400971.99,93275466.99,104471798
+sugar Beet,sugars,Winter,Ismailia,lower Egypt,20329860,8578,178651,20.82664957,2370,20329860,16266800.59,14356721.98,23749424.08,24874570.97
+sugar Beet,sugars,Winter,Giza,Middle Egupt,6633825,2057,46458,22.58531842,3225,6633825,5306061.682,4684733.746,9421879.934,10140715.46
+sugar Beet,sugars,Winter,Beni sweif,Middle Egupt,37718000,13176,314287,23.85299029,2862.629022,37718000,30174400,26636033.88,41752856.84,44205416.89
+sugar Beet,sugars,Winter,Fayoum,Middle Egupt,68261000,18494,358709,19.39596626,3690.980859,68261000,54607139.96,48205162.21,88371302.2,93398877.75
+sugar Beet,sugars,Winter,Minya,Middle Egupt,80889450,25082,581410,23.18036839,3225,80889450,64694602.04,57123233.75,95268854.06,99213646.33
+sugar Beet,sugars,Winter,Assuit,Upper Egypt,25024000,6353,205773,32.38989454,3938.926491,25024000,20021518.65,17671671.66,29472419.51,30692782.38
+sugar Beet,sugars,Winter,Sohag,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+sugar Beet,sugars,Winter,Qena,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+sugar Beet,sugars,Winter,Aswan,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+sugar Beet,sugars,Winter,Luxor,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Sunflower,oils,Summer,Cairo,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sunflower,oils,Summer,Alexandria,lower Egypt,1778780,620,571,0.920967742,2869,1778780,1423092.599,1256154.736,2498968.976,2591523.382
+Sunflower,oils,Summer,Port said,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sunflower,oils,Summer,Suez,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sunflower,oils,Summer,Damietta,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sunflower,oils,Summer,Dakahlia,lower Egypt,149000,52,51,0.980769231,2865.384615,149000,119211.4571,105222.1498,211251.7634,219740.6403
+Sunflower,oils,Summer,Sharkia,lower Egypt,1082000,377,331,0.877984085,2870.026525,1082000,865667.3409,764096.4169,1236173.689,1360069.476
+Sunflower,oils,Summer,Quliubiya,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sunflower,oils,Summer,Kafr el sheikh,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sunflower,oils,Summer,Gharbia,lower Egypt,34000,12,36,3,2833.333333,34000,27200,24010.42345,36668.13741,40611.40876
+Sunflower,oils,Summer,Monoufia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sunflower,oils,Summer,Behaira,lower Egypt,11338288,3952,4358,1.102732794,2869,11338288,9070173.809,8006973.415,12513045.86,13765912.63
+Sunflower,oils,Summer,Ismailia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sunflower,oils,Summer,Giza,Middle Egupt,941000,280,336,1.2,3360.714286,941000,753081.8772,664523.7785,1072363.835,1233703.31
+Sunflower,oils,Summer,Beni sweif,Middle Egupt,676000,233,308,1.321888412,2901.287554,676000,531248.4689,477383.7134,716116.7213,787706.2295
+Sunflower,oils,Summer,Fayoum,Middle Egupt,8369000,3115,2589,0.831139647,2686.677368,8369000,6695200,5910095.114,8952408.853,9847941.443
+Sunflower,oils,Summer,Minya,Middle Egupt,3858000,1278,1228,0.960876369,3018.779343,3858000,3085558.101,2724476.873,4224768.376,4462978.765
+Sunflower,oils,Summer,Assuit,Upper Egypt,1070916,244,311,1.274590164,4389,1070916,856599.1304,756269.0189,1183782.956,1317441.193
+Sunflower,oils,Summer,Sohag,Upper Egypt,43000,12,18,1.5,3583.333333,43000,34394.63283,30366.12378,47261.9148,51977.2248
+Sunflower,oils,Summer,Qena,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Sunflower,oils,Summer,Aswan,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Sunflower,oils,Summer,Luxor,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Sunflower,oils,Nile,Cairo,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sunflower,oils,Nile,Alexandria,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sunflower,oils,Nile,Port said,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sunflower,oils,Nile,Suez,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sunflower,oils,Nile,Damietta,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sunflower,oils,Nile,Dakahlia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sunflower,oils,Nile,Sharkia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sunflower,oils,Nile,Quliubiya,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sunflower,oils,Nile,Kafr el sheikh,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sunflower,oils,Nile,Gharbia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sunflower,oils,Nile,Monoufia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sunflower,oils,Nile,Behaira,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sunflower,oils,Nile,Ismailia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sunflower,oils,Nile,Giza,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Sunflower,oils,Nile,Beni sweif,Middle Egupt,527000,181,227,1.254143646,2911.60221,527000,421520.6922,372161.5635,611150.36,641506.9886
+Sunflower,oils,Nile,Fayoum,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Sunflower,oils,Nile,Minya,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Sunflower,oils,Nile,Assuit,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Sunflower,oils,Nile,Sohag,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Sunflower,oils,Nile,Qena,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Sunflower,oils,Nile,Aswan,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Sunflower,oils,Nile,Luxor,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Soybean,oils,Summer,Cairo,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Soybean,oils,Summer,Alexandria,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Soybean,oils,Summer,Port said,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Soybean,oils,Summer,Suez,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Soybean,oils,Summer,Damietta,lower Egypt,80000,25,35,1.4,3200,80000,64000,56495.11401,86507.25697,95161.32401
+Soybean,oils,Summer,Dakahlia,lower Egypt,21594000,6749,8307,1.230849015,3199.585124,21594000,17270487.73,15249443.65,26488791.78,29135394.31
+Soybean,oils,Summer,Sharkia,lower Egypt,4319072,1136,1334,1.174295775,3802,4319072,3454718.502,3050080.813,4594847.717,5055181.029
+Soybean,oils,Summer,Quliubiya,lower Egypt,813000,254,384,1.511811024,3200.787402,813000,650446.5769,574131.5961,875816.6988,963350.1409
+Soybean,oils,Summer,Kafr el sheikh,lower Egypt,541000,169,155,0.917159763,3201.183432,541000,432768.1202,382048.2085,554276.8074,609776.2547
+Soybean,oils,Summer,Gharbia,lower Egypt,2133000,666,886,1.33033033,3202.702703,2133000,1706514.493,1506300.977,2359680.894,2595526.783
+Soybean,oils,Summer,Monoufia,lower Egypt,42000,13,16,1.230769231,3230.769231,42000,33602.02972,29659.93485,47880.82393,52669.93624
+Soybean,oils,Summer,Behaira,lower Egypt,544000,170,232,1.364705882,3200,544000,435260.8331,384166.7752,577024.7842,634742.4116
+Soybean,oils,Summer,Ismailia,lower Egypt,87446,23,23,1,3802,87446,69956.8,61753.39674,94236.65933,103655.1217
+Soybean,oils,Summer,Giza,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Soybean,oils,Summer,Beni sweif,Middle Egupt,12136000,3006,4460,1.483699268,4037.258816,12136000,9710899.654,8570308.795,12716488.15,13117947.25
+Soybean,oils,Summer,Fayoum,Middle Egupt,24000,6,7,1.166666667,4000,24000,19203.19787,16948.5342,28120.8674,32036.97121
+Soybean,oils,Summer,Minya,Middle Egupt,97326000,23971,28517,1.189645822,4060.156022,97326000,77847033.95,68730543.32,110212369.3,123067910
+Soybean,oils,Summer,Assuit,Upper Egypt,7124000,1542,1915,1.241893645,4619.97406,7124000,5699972.878,5030889.902,7904247.619,8693747.186
+Soybean,oils,Summer,Sohag,Upper Egypt,855000,179,250,1.396648045,4776.536313,855000,684084.195,603791.5309,1232451.22,1303353.659
+Soybean,oils,Summer,Qena,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Soybean,oils,Summer,Aswan,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Soybean,oils,Summer,Luxor,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Soybean,oils,Nile,Cairo,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Soybean,oils,Nile,Alexandria,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Soybean,oils,Nile,Port said,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Soybean,oils,Nile,Suez,lower Egypt,151892,46,50,1.086956522,3302,151892,121525.2795,107264.4482,165308.0806,181862.4256
+Soybean,oils,Nile,Damietta,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Soybean,oils,Nile,Dakahlia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Soybean,oils,Nile,Sharkia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Soybean,oils,Nile,Quliubiya,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Soybean,oils,Nile,Kafr el sheikh,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Soybean,oils,Nile,Gharbia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Soybean,oils,Nile,Monoufia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Soybean,oils,Nile,Behaira,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Soybean,oils,Nile,Ismailia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Soybean,oils,Nile,Giza,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Soybean,oils,Nile,Beni sweif,Middle Egupt,321000,79,118,1.493670886,4063.291139,321000,256759.9334,226686.645,356959.3293,381237.6026
+Soybean,oils,Nile,Fayoum,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Soybean,oils,Nile,Minya,Middle Egupt,0,0,0,0,0,0,0,0,0,0
+Soybean,oils,Nile,Assuit,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Soybean,oils,Nile,Sohag,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Soybean,oils,Nile,Qena,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Soybean,oils,Nile,Aswan,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Soybean,oils,Nile,Luxor,Upper Egypt,0,0,0,0,0,0,0,0,0,0
+Sugar cane,sugars,Summer,Cairo,lower Egypt,63000,8,232,29,7875,63000,49509.84252,44489.90228,67397.41481,74134.19506
+Sugar cane,sugars,Summer,Alexandria,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sugar cane,sugars,Summer,Port said,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sugar cane,sugars,Summer,Suez,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sugar cane,sugars,Summer,Damietta,lower Egypt,63000,8,205,25.625,7875,63000,50400,44489.90228,68598.98182,75453.38182
+Sugar cane,sugars,Summer,Dakahlia,lower Egypt,1974000,252,9708,38.52380952,7833.333333,1974000,1579578.645,1394016.938,2044353.064,2248829.512
+Sugar cane,sugars,Summer,Sharkia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sugar cane,sugars,Summer,Quliubiya,lower Egypt,3291000,420,14067,33.49285714,7835.714286,3291000,2632800,2324067.752,3406788.063,3744503.246
+Sugar cane,sugars,Summer,Kafr el sheikh,lower Egypt,752000,96,3959,41.23958333,7833.333333,752000,601532.0687,531054.0717,784960.0835,863436.4727
+Sugar cane,sugars,Summer,Gharbia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sugar cane,sugars,Summer,Monoufia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sugar cane,sugars,Summer,Behaira,lower Egypt,337000,43,1141,26.53488372,7837.209302,337000,269677.6796,237985.6678,355169.6183,383882.9201
+Sugar cane,sugars,Summer,Ismailia,lower Egypt,0,0,0,0,0,0,0,0,0,0
+Sugar cane,sugars,Summer,Giza,Middle Egupt,18867000,1970,78804,40.00203046,9577.15736,18867000,15097948.91,13323666.45,20702987.31,22773755.6
+Sugar cane,sugars,Summer,Beni sweif,Middle Egupt,2817810,262,8100,30.91603053,10755,2817810,2254998.415,1989906.215,3523936.92,3876043.569
+Sugar cane,sugars,Summer,Fayoum,Middle Egupt,2270000,237,5814,24.53164557,9578.059072,2270000,1816679.98,1603048.86,2694903.357,2965086.47
+Sugar cane,sugars,Summer,Minya,Middle Egupt,372086000,39247,1562657,39.81596046,9480.622723,372086000,297668800,262763012.4,500566311.2,508949700.3
+Sugar cane,sugars,Summer,Assuit,Upper Egypt,14039931.16,1081,35334,32.68640148,12987.91041,14039931.16,11233167.92,9914843.892,16080187.89,17691327.54
+Sugar cane,sugars,Summer,Sohag,Upper Egypt,175454137.6,13508,599927,44.41271839,12988.90566,175454137.6,140373463.7,123903768.8,198063679.6,219343248.4
+Sugar cane,sugars,Summer,Qena,Upper Egypt,1533674998,118075,5846576,49.51578234,12988.99003,1533674998,1227106386,1083064298,1692138822,1778139289
+Sugar cane,sugars,Summer,Aswan,Upper Egypt,1115351167,85869,4536367,52.82892546,12988.98516,1115351167,892280933.3,787648641.4,1243560729,1344039572
+Sugar cane,sugars,Summer,Luxor,Upper Egypt,861754027.2,66345,3120212,47.03010023,12988.98225,861754027.2,689403221.7,608561150.1,930712861.8,985787367.3
+Deciduous fruit,fruit,Permanent,Cairo,lower Egypt,4475249,773,4584,5.930142303,5789.455369,4475249,3580090.366,3160371.281,4808090.255,5287519.628
+Deciduous fruit,fruit,Permanent,Alexandria,lower Egypt,2326505,402,7837,19.49502488,5787.325871,2326505,1861324.357,1642952.065,2420458.908,2662504.799
+Deciduous fruit,fruit,Permanent,Port said,lower Egypt,27751,5,1053,210.6,5550.2,27751,22199.32349,19597.44886,29293.79361,32810.07737
+Deciduous fruit,fruit,Permanent,Suez,lower Egypt,3218587,556,9146,16.44964029,5788.82554,3218587,2574281.193,2272930.494,3759966.257,3938097.496
+Deciduous fruit,fruit,Permanent,Damietta,lower Egypt,68290,12,80526,6710.5,5690.833333,68290,54621.7231,48225.64169,96990.82817,104390.6734
+Deciduous fruit,fruit,Permanent,Dakahlia,lower Egypt,4527359,782,25808,33.00255754,5789.461637,4527359,3621887.2,3197170.786,5011670.083,5306055.252
+Deciduous fruit,fruit,Permanent,Sharkia,lower Egypt,1104873,191,207039,1083.973822,5784.675393,1104873,883871.5305,780249.0762,1430378.485,1511754.856
+Deciduous fruit,fruit,Permanent,Quliubiya,lower Egypt,2975367,514,23772,46.24902724,5788.651751,2975367,2379669.833,2101171.223,3504286.461,3649388.261
+Deciduous fruit,fruit,Permanent,Kafr el sheikh,lower Egypt,35590276,6146,61971,10.08314351,5790.803124,35590276,28475725.5,25133458.75,41917021.45,43652677.28
+Deciduous fruit,fruit,Permanent,Gharbia,lower Egypt,1961949,339,5182,15.28613569,5787.460177,1961949,1569559.2,1385506.655,3318980.528,3554898.342
+Deciduous fruit,fruit,Permanent,Monoufia,lower Egypt,415764,72,6606,91.75,5774.5,415764,332658.0863,293607.9322,594227.3199,600831.5134
+Deciduous fruit,fruit,Permanent,Behaira,lower Egypt,34466599,5952,132702,22.2953629,5790.759241,34466599,27576472.77,24339930.5,44325724.46,46391138.64
+Deciduous fruit,fruit,Permanent,Ismailia,lower Egypt,8198849,1416,85942,60.69350282,5790.147599,8198849,6560003.795,5789936.362,13249388.14,13773103.17
+Deciduous fruit,fruit,Permanent,Giza,Middle Egupt,150003595,20834,225334,10.8156859,7199.942162,150003595,119983476.9,105930877.5,168603236.5,174535014
+Deciduous fruit,fruit,Permanent,Beni sweif,Middle Egupt,272399,38,27907,734.3947368,7168.394737,272399,217904.8594,192365.157,382687.3756,396860.9821
+Deciduous fruit,fruit,Permanent,Fayoum,Middle Egupt,8321999,1156,106012,91.70588235,7198.961073,8321999,6657009.823,5876903.528,10338223.15,12124408.3
+Deciduous fruit,fruit,Permanent,Minya,Middle Egupt,4937997,686,53906,78.58017493,7198.246356,4937997,3950545.644,3487158.793,6136018.045,6903980.253
+Deciduous fruit,fruit,Permanent,Assuit,Upper Egypt,3972000,400,44195,110.4875,9930,3972000,3177753.182,2804982.41,4196830.189,4385021.384
+Deciduous fruit,fruit,Permanent,Sohag,Upper Egypt,5283147,532,35587,66.89285714,9930.727444,5283147,4226936.731,3730899.901,7490430.337,7791423.519
+Deciduous fruit,fruit,Permanent,Qena,Upper Egypt,13855330,1395,22700,16.27240143,9932.136201,13855330,11083752.64,9784480.599,15829569.69,17416091.88
+Deciduous fruit,fruit,Permanent,Aswan,Upper Egypt,245741266,24740,110148,4.45222312,9932.953355,245741266,196589229,173539760.5,256844317.5,282500521.1
+Deciduous fruit,fruit,Permanent,Luxor,Upper Egypt,6028198,607,13924,22.93904448,9931.133443,6028198,4823021.929,4257046.666,6678550.657,7345484.543
+Permanent Greenery fruit,fruit,Permanent,Cairo,lower Egypt,120697102,18713,113909,6.08715866,6449.906589,120697102,96565193.48,85234956.72,130168762.4,144167039.6
+Permanent Greenery fruit,fruit,Permanent,Alexandria,lower Egypt,59796742,9271,81412,8.781361234,6449.869701,59796742,47834981.95,42227796.96,65214287.93,71733864.57
+Permanent Greenery fruit,fruit,Permanent,Port said,lower Egypt,7803294,1210,7959,6.57768595,6449.003306,7803294,6242320.963,5510599.802,8611791.808,9474046.118
+Permanent Greenery fruit,fruit,Permanent,Suez,lower Egypt,157959296,24490,107099,4.373172724,6449.950837,157959296,126372985.6,111549105.4,167592223.6,184320372
+Permanent Greenery fruit,fruit,Permanent,Damietta,lower Egypt,48728544,7555,63983,8.468960953,6449.840371,48728544,38982835.2,34411558.11,55531060.92,63885830.02
+Permanent Greenery fruit,fruit,Permanent,Dakahlia,lower Egypt,76424841,11849,109455,9.237488396,6449.897966,76424841,61123195.26,53970376.32,80960216.81,89053732.76
+Permanent Greenery fruit,fruit,Permanent,Sharkia,lower Egypt,591437990,91696,667501,7.279499651,6449.986804,591437990,473076569.9,417666958.4,632667546.6,695954916.1
+Permanent Greenery fruit,fruit,Permanent,Quliubiya,lower Egypt,244176445,37857,432786,11.43212616,6449.96817,244176445,195310678.4,172434701.2,267389560.2,282466119.5
+Permanent Greenery fruit,fruit,Permanent,Kafr el sheikh,lower Egypt,43078349,6679,74983,11.22668064,6449.820183,43078349,34472608.9,30421452.97,47618501.65,52994998.22
+Permanent Greenery fruit,fruit,Permanent,Gharbia,lower Egypt,164680257,25532,259589,10.16720194,6449.955233,164680257,131788061.9,116295373.7,181002425,199060993.9
+Permanent Greenery fruit,fruit,Permanent,Monoufia,lower Egypt,227309047,35242,388527,11.02454458,6449.947421,227309047,181805682,160523131.6,235710988.5,259272954.8
+Permanent Greenery fruit,fruit,Permanent,Behaira,lower Egypt,964576949,149547,1510635,10.10140625,6449.991969,964576949,771756544.6,681173558.8,1042067484,1146589601
+Permanent Greenery fruit,fruit,Permanent,Ismailia,lower Egypt,1205645698,186922,921465,4.92967655,6449.99357,1205645698,964360639.1,851413639.5,1391845806,1499428090
+Permanent Greenery fruit,fruit,Permanent,Giza,Middle Egupt,268273904,32621,183386,5.621716072,8223.963214,268273904,214604999.8,189452059.9,345325755.9,374311432.3
+Permanent Greenery fruit,fruit,Permanent,Beni sweif,Middle Egupt,151772718,18455,166847,9.040747765,8223.934869,151772718,121407425.6,107180212.6,167564751.1,184766787.1
+Permanent Greenery fruit,fruit,Permanent,Fayoum,Middle Egupt,248774800,30250,102899,3.401619835,8223.960331,248774800,199010658.4,175682008.6,276824835.8,306325735.5
+Permanent Greenery fruit,fruit,Permanent,Minya,Middle Egupt,299360617,36401,333427,9.159830774,8223.966842,299360617,239511512.5,211405152.3,311255004.7,325706129.9
+Permanent Greenery fruit,fruit,Permanent,Assuit,Upper Egypt,374676642,32904,421029,12.79567834,11386.96335,374676642,299764632.5,264592495.1,413216725.9,451086547.5
+Permanent Greenery fruit,fruit,Permanent,Sohag,Upper Egypt,71065066,6241,73199,11.72872937,11386.80756,71065066,56856269.06,50185362.57,75584484.8,79720631.34
+Permanent Greenery fruit,fruit,Permanent,Qena,Upper Egypt,104850346,9208,121742,13.22132928,11386.87511,104850346,83880276.8,74044153.14,119909137.9,131787812.2
+Permanent Greenery fruit,fruit,Permanent,Aswan,Upper Egypt,186483487,16377,121462,7.416620871,11386.91378,186483487,149195906.4,131692573.2,202118904.6,222320417.5
+Permanent Greenery fruit,fruit,Permanent,Luxor,Upper Egypt,15200437,1335,97646,73.14307116,11386.09513,15200437,12160349.6,10734380.27,15798879.4,17393129.96
