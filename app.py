@@ -148,8 +148,8 @@ with st.container():
         a,b = st.columns(2)
         with a:
             
-            st.markdown(f"<h1 style='text-align: center; color: red;'>After :{ str(numerize.numerize(int(sumWAfter)))}</h1>", unsafe_allow_html=True)
-            st.markdown(f"<h1 style='text-align: center; color: red;'>Before :{ str(numerize.numerize(int(sumW)))}</h1>", unsafe_allow_html=True)
+            st.markdown(f"<h1 style='text-align: center; color: red;'>Before :{ str(numerize.numerize(int(sumWAfter)))}</h1>", unsafe_allow_html=True)
+            st.markdown(f"<h1 style='text-align: center; color: red;'>After :{ str(numerize.numerize(int(sumW)))}</h1>", unsafe_allow_html=True)
             
         with b:
             if sumWAfter == 0:
@@ -211,8 +211,8 @@ with st.container():
         a,b = st.columns(2)
         with a:
             
-            st.markdown(f"<h1 style='text-align: center; color: red;'>After :{ str(numerize.numerize(int(sumWAfter)))}</h1>", unsafe_allow_html=True)
-            st.markdown(f"<h1 style='text-align: center; color: red;'>Before :{ str(numerize.numerize(int(sumW)))}</h1>", unsafe_allow_html=True)
+            st.markdown(f"<h1 style='text-align: center; color: red;'>Before :{ str(numerize.numerize(int(sumWAfter)))}</h1>", unsafe_allow_html=True)
+            st.markdown(f"<h1 style='text-align: center; color: red;'>After :{ str(numerize.numerize(int(sumW)))}</h1>", unsafe_allow_html=True)
             
         with b:
            
